@@ -1,0 +1,1032 @@
+<?xml version="1.0" ?>
+<InviwoWorkspace version="2">
+    <maskMin content="0" />
+    <maskMax content="1" />
+    <type content="0" />
+    <Points>
+        <Point>
+            <pos content="0.000000" />
+            <rgba x="0.141176" y="0.149020" z="0.200000" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.003922" />
+            <rgba x="0.145098" y="0.156863" z="0.207843" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.007843" />
+            <rgba x="0.152941" y="0.164706" z="0.219608" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.011765" />
+            <rgba x="0.156863" y="0.172549" z="0.227451" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.015686" />
+            <rgba x="0.164706" y="0.184314" z="0.235294" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.019608" />
+            <rgba x="0.168627" y="0.192157" z="0.247059" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.023529" />
+            <rgba x="0.176471" y="0.200000" z="0.254902" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.027451" />
+            <rgba x="0.180392" y="0.207843" z="0.266667" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.031373" />
+            <rgba x="0.188235" y="0.215686" z="0.274510" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.035294" />
+            <rgba x="0.192157" y="0.227451" z="0.286275" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.039216" />
+            <rgba x="0.200000" y="0.235294" z="0.294118" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.043137" />
+            <rgba x="0.203922" y="0.243137" z="0.305882" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.047059" />
+            <rgba x="0.211765" y="0.250980" z="0.313725" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.050980" />
+            <rgba x="0.215686" y="0.262745" z="0.321569" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.054902" />
+            <rgba x="0.219608" y="0.270588" z="0.325490" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.058824" />
+            <rgba x="0.219608" y="0.278431" z="0.333333" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.062745" />
+            <rgba x="0.223529" y="0.286275" z="0.337255" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.066667" />
+            <rgba x="0.227451" y="0.294118" z="0.341176" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.070588" />
+            <rgba x="0.227451" y="0.301961" z="0.345098" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.074510" />
+            <rgba x="0.231373" y="0.313725" z="0.349020" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.078431" />
+            <rgba x="0.231373" y="0.321569" z="0.356863" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.082353" />
+            <rgba x="0.235294" y="0.329412" z="0.360784" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.086275" />
+            <rgba x="0.235294" y="0.337255" z="0.364706" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.090196" />
+            <rgba x="0.239216" y="0.345098" z="0.368627" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.094118" />
+            <rgba x="0.239216" y="0.356863" z="0.372549" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.098039" />
+            <rgba x="0.243137" y="0.364706" z="0.376471" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.101961" />
+            <rgba x="0.243137" y="0.372549" z="0.380392" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.105882" />
+            <rgba x="0.247059" y="0.376471" z="0.384314" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.109804" />
+            <rgba x="0.250980" y="0.380392" z="0.384314" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.113725" />
+            <rgba x="0.250980" y="0.388235" z="0.384314" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.117647" />
+            <rgba x="0.254902" y="0.392157" z="0.388235" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.121569" />
+            <rgba x="0.258824" y="0.400000" z="0.388235" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.125490" />
+            <rgba x="0.258824" y="0.403922" z="0.392157" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.129412" />
+            <rgba x="0.262745" y="0.411765" z="0.392157" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.133333" />
+            <rgba x="0.262745" y="0.415686" z="0.392157" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.137255" />
+            <rgba x="0.266667" y="0.419608" z="0.396078" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.141176" />
+            <rgba x="0.270588" y="0.427451" z="0.396078" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.145098" />
+            <rgba x="0.270588" y="0.431373" z="0.400000" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.149020" />
+            <rgba x="0.274510" y="0.439216" z="0.400000" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.152941" />
+            <rgba x="0.278431" y="0.443137" z="0.400000" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.156863" />
+            <rgba x="0.282353" y="0.447059" z="0.396078" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.160784" />
+            <rgba x="0.286275" y="0.450980" z="0.396078" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.164706" />
+            <rgba x="0.290196" y="0.458824" z="0.396078" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.168627" />
+            <rgba x="0.294118" y="0.462745" z="0.396078" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.172549" />
+            <rgba x="0.298039" y="0.466667" z="0.392157" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.176471" />
+            <rgba x="0.301961" y="0.470588" z="0.392157" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.180392" />
+            <rgba x="0.305882" y="0.478431" z="0.392157" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.184314" />
+            <rgba x="0.309804" y="0.482353" z="0.388235" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.188235" />
+            <rgba x="0.313725" y="0.486275" z="0.388235" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.192157" />
+            <rgba x="0.317647" y="0.490196" z="0.388235" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.196078" />
+            <rgba x="0.321569" y="0.498039" z="0.384314" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.200000" />
+            <rgba x="0.325490" y="0.501961" z="0.384314" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.203922" />
+            <rgba x="0.333333" y="0.509804" z="0.388235" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.207843" />
+            <rgba x="0.337255" y="0.517647" z="0.388235" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.211765" />
+            <rgba x="0.345098" y="0.525490" z="0.392157" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.215686" />
+            <rgba x="0.349020" y="0.533333" z="0.396078" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.219608" />
+            <rgba x="0.356863" y="0.541176" z="0.400000" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.223529" />
+            <rgba x="0.360784" y="0.549020" z="0.400000" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.227451" />
+            <rgba x="0.368627" y="0.556863" z="0.403922" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.231373" />
+            <rgba x="0.376471" y="0.564706" z="0.407843" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.235294" />
+            <rgba x="0.380392" y="0.572549" z="0.407843" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.239216" />
+            <rgba x="0.388235" y="0.580392" z="0.411765" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.243137" />
+            <rgba x="0.392157" y="0.588235" z="0.415686" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.247059" />
+            <rgba x="0.400000" y="0.596078" z="0.415686" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.250980" />
+            <rgba x="0.403922" y="0.603922" z="0.419608" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.254902" />
+            <rgba x="0.411765" y="0.611765" z="0.423529" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.258824" />
+            <rgba x="0.419608" y="0.619608" z="0.427451" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.262745" />
+            <rgba x="0.423529" y="0.627451" z="0.427451" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.266667" />
+            <rgba x="0.431373" y="0.635294" z="0.431373" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.270588" />
+            <rgba x="0.439216" y="0.643137" z="0.435294" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.274510" />
+            <rgba x="0.443137" y="0.650980" z="0.435294" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.278431" />
+            <rgba x="0.450980" y="0.658824" z="0.439216" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.282353" />
+            <rgba x="0.458824" y="0.666667" z="0.443137" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.286275" />
+            <rgba x="0.462745" y="0.674510" z="0.447059" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.290196" />
+            <rgba x="0.470588" y="0.682353" z="0.447059" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.294118" />
+            <rgba x="0.478431" y="0.690196" z="0.450980" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.298039" />
+            <rgba x="0.482353" y="0.698039" z="0.454902" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.301961" />
+            <rgba x="0.490196" y="0.701961" z="0.454902" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.305882" />
+            <rgba x="0.494118" y="0.705882" z="0.458824" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.309804" />
+            <rgba x="0.501961" y="0.709804" z="0.462745" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.313725" />
+            <rgba x="0.505882" y="0.713725" z="0.466667" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.317647" />
+            <rgba x="0.509804" y="0.717647" z="0.470588" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.321569" />
+            <rgba x="0.517647" y="0.721569" z="0.470588" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.325490" />
+            <rgba x="0.521569" y="0.725490" z="0.474510" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.329412" />
+            <rgba x="0.529412" y="0.729412" z="0.478431" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.333333" />
+            <rgba x="0.533333" y="0.733333" z="0.482353" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.337255" />
+            <rgba x="0.537255" y="0.737255" z="0.482353" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.341176" />
+            <rgba x="0.545098" y="0.741176" z="0.486275" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.345098" />
+            <rgba x="0.549020" y="0.745098" z="0.490196" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.349020" />
+            <rgba x="0.556863" y="0.749020" z="0.494118" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.352941" />
+            <rgba x="0.564706" y="0.752941" z="0.498039" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.356863" />
+            <rgba x="0.572549" y="0.756863" z="0.501961" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.360784" />
+            <rgba x="0.580392" y="0.760784" z="0.505882" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.364706" />
+            <rgba x="0.592157" y="0.764706" z="0.509804" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.368627" />
+            <rgba x="0.600000" y="0.768627" z="0.513725" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.372549" />
+            <rgba x="0.607843" y="0.772549" z="0.517647" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.376471" />
+            <rgba x="0.615686" y="0.776471" z="0.521569" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.380392" />
+            <rgba x="0.627451" y="0.780392" z="0.525490" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.384314" />
+            <rgba x="0.635294" y="0.784314" z="0.529412" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.388235" />
+            <rgba x="0.643137" y="0.788235" z="0.533333" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.392157" />
+            <rgba x="0.650980" y="0.792157" z="0.537255" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.396078" />
+            <rgba x="0.662745" y="0.796078" z="0.541176" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.400000" />
+            <rgba x="0.670588" y="0.800000" z="0.545098" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.403922" />
+            <rgba x="0.678431" y="0.803922" z="0.549020" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.407843" />
+            <rgba x="0.686275" y="0.807843" z="0.552941" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.411765" />
+            <rgba x="0.694118" y="0.811765" z="0.556863" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.415686" />
+            <rgba x="0.698039" y="0.815686" z="0.556863" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.419608" />
+            <rgba x="0.705882" y="0.819608" z="0.560784" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.423529" />
+            <rgba x="0.713725" y="0.823529" z="0.564706" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.427451" />
+            <rgba x="0.721569" y="0.827451" z="0.568627" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.431373" />
+            <rgba x="0.729412" y="0.831373" z="0.572549" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.435294" />
+            <rgba x="0.737255" y="0.835294" z="0.576471" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.439216" />
+            <rgba x="0.741176" y="0.839216" z="0.580392" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.443137" />
+            <rgba x="0.749020" y="0.843137" z="0.580392" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.447059" />
+            <rgba x="0.756863" y="0.847059" z="0.584314" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.450980" />
+            <rgba x="0.764706" y="0.850980" z="0.588235" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.454902" />
+            <rgba x="0.772549" y="0.854902" z="0.592157" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.458824" />
+            <rgba x="0.780392" y="0.858824" z="0.596078" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.462745" />
+            <rgba x="0.784314" y="0.862745" z="0.600000" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.466667" />
+            <rgba x="0.792157" y="0.866667" z="0.603922" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.470588" />
+            <rgba x="0.800000" y="0.870588" z="0.603922" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.474510" />
+            <rgba x="0.807843" y="0.874510" z="0.607843" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.478431" />
+            <rgba x="0.815686" y="0.878431" z="0.611765" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.482353" />
+            <rgba x="0.823529" y="0.882353" z="0.615686" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.486275" />
+            <rgba x="0.831373" y="0.886275" z="0.619608" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.490196" />
+            <rgba x="0.835294" y="0.890196" z="0.623529" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.494118" />
+            <rgba x="0.843137" y="0.894118" z="0.627451" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.498039" />
+            <rgba x="0.850980" y="0.898039" z="0.631373" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.501961" />
+            <rgba x="0.858824" y="0.901961" z="0.635294" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.505882" />
+            <rgba x="0.862745" y="0.905882" z="0.639216" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.509804" />
+            <rgba x="0.870588" y="0.909804" z="0.643137" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.513725" />
+            <rgba x="0.874510" y="0.913725" z="0.647059" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.517647" />
+            <rgba x="0.878431" y="0.917647" z="0.654902" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.521569" />
+            <rgba x="0.886275" y="0.917647" z="0.658824" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.525490" />
+            <rgba x="0.890196" y="0.921569" z="0.662745" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.529412" />
+            <rgba x="0.898039" y="0.925490" z="0.666667" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.533333" />
+            <rgba x="0.901961" y="0.929412" z="0.674510" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.537255" />
+            <rgba x="0.905882" y="0.929412" z="0.678431" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.541176" />
+            <rgba x="0.913725" y="0.933333" z="0.682353" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.545098" />
+            <rgba x="0.917647" y="0.937255" z="0.686275" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.549020" />
+            <rgba x="0.925490" y="0.941176" z="0.694118" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.552941" />
+            <rgba x="0.929412" y="0.941176" z="0.698039" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.556863" />
+            <rgba x="0.929412" y="0.941176" z="0.705882" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.560784" />
+            <rgba x="0.933333" y="0.941176" z="0.713725" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.564706" />
+            <rgba x="0.937255" y="0.945098" z="0.717647" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.568627" />
+            <rgba x="0.937255" y="0.945098" z="0.725490" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.572549" />
+            <rgba x="0.941176" y="0.945098" z="0.729412" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.576471" />
+            <rgba x="0.945098" y="0.945098" z="0.737255" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.580392" />
+            <rgba x="0.949020" y="0.945098" z="0.745098" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.584314" />
+            <rgba x="0.949020" y="0.945098" z="0.749020" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.588235" />
+            <rgba x="0.952941" y="0.949020" z="0.756863" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.592157" />
+            <rgba x="0.956863" y="0.949020" z="0.764706" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.596078" />
+            <rgba x="0.956863" y="0.949020" z="0.768627" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.600000" />
+            <rgba x="0.960784" y="0.949020" z="0.776471" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.603922" />
+            <rgba x="0.964706" y="0.949020" z="0.788235" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.607843" />
+            <rgba x="0.964706" y="0.952941" z="0.796078" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.611765" />
+            <rgba x="0.968627" y="0.952941" z="0.807843" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.615686" />
+            <rgba x="0.968627" y="0.956863" z="0.819608" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.619608" />
+            <rgba x="0.972549" y="0.956863" z="0.827451" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.623529" />
+            <rgba x="0.972549" y="0.956863" z="0.839216" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.627451" />
+            <rgba x="0.976471" y="0.960784" z="0.850980" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.631373" />
+            <rgba x="0.980392" y="0.960784" z="0.858824" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.635294" />
+            <rgba x="0.980392" y="0.964706" z="0.870588" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.639216" />
+            <rgba x="0.984314" y="0.964706" z="0.882353" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.643137" />
+            <rgba x="0.984314" y="0.964706" z="0.890196" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.647059" />
+            <rgba x="0.988235" y="0.968627" z="0.901961" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.650980" />
+            <rgba x="0.984314" y="0.964706" z="0.905882" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.654902" />
+            <rgba x="0.972549" y="0.952941" z="0.898039" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.658824" />
+            <rgba x="0.960784" y="0.941176" z="0.886275" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.662745" />
+            <rgba x="0.949020" y="0.929412" z="0.874510" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.666667" />
+            <rgba x="0.937255" y="0.917647" z="0.862745" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.670588" />
+            <rgba x="0.925490" y="0.905882" z="0.850980" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.674510" />
+            <rgba x="0.913725" y="0.894118" z="0.843137" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.678431" />
+            <rgba x="0.901961" y="0.882353" z="0.831373" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.682353" />
+            <rgba x="0.890196" y="0.870588" z="0.819608" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.686275" />
+            <rgba x="0.878431" y="0.858824" z="0.811765" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.690196" />
+            <rgba x="0.866667" y="0.847059" z="0.800000" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.694118" />
+            <rgba x="0.854902" y="0.835294" z="0.788235" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.698039" />
+            <rgba x="0.843137" y="0.823529" z="0.776471" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.701961" />
+            <rgba x="0.835294" y="0.807843" z="0.764706" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.705882" />
+            <rgba x="0.823529" y="0.796078" z="0.752941" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.709804" />
+            <rgba x="0.811765" y="0.784314" z="0.741176" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.713725" />
+            <rgba x="0.800000" y="0.772549" z="0.729412" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.717647" />
+            <rgba x="0.792157" y="0.760784" z="0.717647" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.721569" />
+            <rgba x="0.780392" y="0.749020" z="0.705882" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.725490" />
+            <rgba x="0.768627" y="0.737255" z="0.690196" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.729412" />
+            <rgba x="0.756863" y="0.725490" z="0.678431" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.733333" />
+            <rgba x="0.749020" y="0.713725" z="0.666667" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.737255" />
+            <rgba x="0.737255" y="0.701961" z="0.654902" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.741176" />
+            <rgba x="0.725490" y="0.690196" z="0.643137" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.745098" />
+            <rgba x="0.713725" y="0.678431" z="0.631373" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.749020" />
+            <rgba x="0.705882" y="0.666667" z="0.619608" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.752941" />
+            <rgba x="0.694118" y="0.654902" z="0.607843" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.756863" />
+            <rgba x="0.686275" y="0.643137" z="0.596078" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.760784" />
+            <rgba x="0.678431" y="0.635294" z="0.584314" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.764706" />
+            <rgba x="0.670588" y="0.623529" z="0.576471" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.768627" />
+            <rgba x="0.662745" y="0.611765" z="0.564706" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.772549" />
+            <rgba x="0.654902" y="0.603922" z="0.552941" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.776471" />
+            <rgba x="0.647059" y="0.592157" z="0.541176" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.780392" />
+            <rgba x="0.639216" y="0.580392" z="0.533333" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.784314" />
+            <rgba x="0.631373" y="0.572549" z="0.521569" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.788235" />
+            <rgba x="0.623529" y="0.560784" z="0.509804" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.792157" />
+            <rgba x="0.615686" y="0.549020" z="0.498039" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.796078" />
+            <rgba x="0.607843" y="0.541176" z="0.490196" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.800000" />
+            <rgba x="0.600000" y="0.529412" z="0.478431" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.803922" />
+            <rgba x="0.592157" y="0.517647" z="0.470588" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.807843" />
+            <rgba x="0.584314" y="0.509804" z="0.458824" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.811765" />
+            <rgba x="0.576471" y="0.498039" z="0.450980" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.815686" />
+            <rgba x="0.568627" y="0.490196" z="0.439216" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.819608" />
+            <rgba x="0.560784" y="0.478431" z="0.431373" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.823529" />
+            <rgba x="0.552941" y="0.470588" z="0.423529" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.827451" />
+            <rgba x="0.545098" y="0.458824" z="0.411765" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.831373" />
+            <rgba x="0.537255" y="0.450980" z="0.403922" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.835294" />
+            <rgba x="0.529412" y="0.439216" z="0.396078" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.839216" />
+            <rgba x="0.521569" y="0.431373" z="0.384314" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.843137" />
+            <rgba x="0.513725" y="0.419608" z="0.376471" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.847059" />
+            <rgba x="0.505882" y="0.411765" z="0.368627" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.850980" />
+            <rgba x="0.501961" y="0.403922" z="0.360784" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.854902" />
+            <rgba x="0.494118" y="0.396078" z="0.352941" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.858824" />
+            <rgba x="0.490196" y="0.388235" z="0.349020" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.862745" />
+            <rgba x="0.486275" y="0.380392" z="0.341176" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.866667" />
+            <rgba x="0.482353" y="0.372549" z="0.337255" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.870588" />
+            <rgba x="0.474510" y="0.364706" z="0.333333" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.874510" />
+            <rgba x="0.470588" y="0.360784" z="0.325490" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.878431" />
+            <rgba x="0.466667" y="0.352941" z="0.321569" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.882353" />
+            <rgba x="0.462745" y="0.345098" z="0.313725" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.886275" />
+            <rgba x="0.454902" y="0.337255" z="0.309804" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.890196" />
+            <rgba x="0.450980" y="0.329412" z="0.301961" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.894118" />
+            <rgba x="0.447059" y="0.325490" z="0.298039" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.898039" />
+            <rgba x="0.443137" y="0.317647" z="0.294118" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.901961" />
+            <rgba x="0.435294" y="0.309804" z="0.286275" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.905882" />
+            <rgba x="0.431373" y="0.305882" z="0.282353" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.909804" />
+            <rgba x="0.427451" y="0.298039" z="0.278431" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.913725" />
+            <rgba x="0.419608" y="0.294118" z="0.274510" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.917647" />
+            <rgba x="0.415686" y="0.286275" z="0.270588" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.921569" />
+            <rgba x="0.407843" y="0.282353" z="0.266667" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.925490" />
+            <rgba x="0.403922" y="0.274510" z="0.258824" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.929412" />
+            <rgba x="0.400000" y="0.270588" z="0.254902" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.933333" />
+            <rgba x="0.392157" y="0.262745" z="0.250980" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.937255" />
+            <rgba x="0.388235" y="0.258824" z="0.247059" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.941176" />
+            <rgba x="0.380392" y="0.250980" z="0.243137" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.945098" />
+            <rgba x="0.376471" y="0.247059" z="0.239216" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.949020" />
+            <rgba x="0.372549" y="0.239216" z="0.231373" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.952941" />
+            <rgba x="0.364706" y="0.235294" z="0.227451" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.956863" />
+            <rgba x="0.360784" y="0.227451" z="0.223529" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.960784" />
+            <rgba x="0.356863" y="0.223529" z="0.219608" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.964706" />
+            <rgba x="0.349020" y="0.215686" z="0.215686" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.968627" />
+            <rgba x="0.345098" y="0.211765" z="0.211765" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.972549" />
+            <rgba x="0.337255" y="0.203922" z="0.207843" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.976471" />
+            <rgba x="0.333333" y="0.200000" z="0.203922" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.980392" />
+            <rgba x="0.329412" y="0.192157" z="0.200000" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.984314" />
+            <rgba x="0.321569" y="0.188235" z="0.192157" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.988235" />
+            <rgba x="0.317647" y="0.180392" z="0.188235" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.992157" />
+            <rgba x="0.313725" y="0.176471" z="0.184314" w="1" />
+        </Point>
+        <Point>
+            <pos content="0.996078" />
+            <rgba x="0.305882" y="0.168627" z="0.180392" w="1" />
+        </Point>
+        <Point>
+            <pos content="1.000000" />
+            <rgba x="0.301961" y="0.164706" z="0.176471" w="1" />
+        </Point>
+    </Points>
+</InviwoWorkspace>

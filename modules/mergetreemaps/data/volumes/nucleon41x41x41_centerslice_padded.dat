@@ -1,0 +1,19 @@
+RawFile: nucleon41x41x41_centerslice_padded.raw
+Resolution: 64 64 1
+Format: UINT8
+ByteOffset: 0
+BasisVector1: 64 0 0
+BasisVector2: 0 64 0
+BasisVector3: 0 0 1
+Offset: -32 -32 0
+WorldVector1: 1 0 0 0
+WorldVector2: 0 1 0 0
+WorldVector3: 0 0 1 0
+WorldVector4: 0 0 0 1
+DataRange: 0 255
+ValueRange: 0 255
+Unit: 
+SwizzleMask: rgba
+Interpolation: Linear
+Wrapping: Clamp Clamp Clamp
+filename: C:/Users/wiebkek/Downloads/centerSlice_padded(1).raw

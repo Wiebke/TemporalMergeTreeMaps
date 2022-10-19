@@ -1,0 +1,2019 @@
+<?xml version="1.0" ?>
+<InviwoWorkspace version="2">
+    <InviwoSetup>
+        <Modules>
+            <Module name="Core" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.Image.outport.metasource" />
+                    <Processor content="org.inviwo.Image.outport.metasink" />
+                    <Processor content="org.inviwo.CompositeProcessor" />
+                    <Processor content="org.inviwo.Mesh.outport.metasink" />
+                    <Processor content="org.inviwo.Mesh.outport.metasource" />
+                    <Processor content="org.inviwo.Volume.outport.metasink" />
+                    <Processor content="org.inviwo.Volume.outport.metasource" />
+                    <Processor content="org.inviwo.Volume.shared_ptr.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Volume.shared_ptr.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Buffer.outport.metasink" />
+                    <Processor content="org.inviwo.Buffer.outport.metasource" />
+                    <Processor content="org.inviwo.LightSource.outport.metasink" />
+                    <Processor content="org.inviwo.LightSource.outport.metasource" />
+                    <Processor content="org.inviwo.FLOAT32.outport.metasink" />
+                    <Processor content="org.inviwo.FLOAT32.outport.metasource" />
+                    <Processor content="org.inviwo.FLOAT32.vector.outport.metasink" />
+                    <Processor content="org.inviwo.FLOAT32.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec2FLOAT32.outport.metasink" />
+                    <Processor content="org.inviwo.Vec2FLOAT32.outport.metasource" />
+                    <Processor content="org.inviwo.Vec2FLOAT32.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec2FLOAT32.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec3FLOAT32.outport.metasink" />
+                    <Processor content="org.inviwo.Vec3FLOAT32.outport.metasource" />
+                    <Processor content="org.inviwo.Vec3FLOAT32.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec3FLOAT32.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec4FLOAT32.outport.metasink" />
+                    <Processor content="org.inviwo.Vec4FLOAT32.outport.metasource" />
+                    <Processor content="org.inviwo.Vec4FLOAT32.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec4FLOAT32.vector.outport.metasource" />
+                    <Processor content="org.inviwo.FLOAT64.outport.metasink" />
+                    <Processor content="org.inviwo.FLOAT64.outport.metasource" />
+                    <Processor content="org.inviwo.FLOAT64.vector.outport.metasink" />
+                    <Processor content="org.inviwo.FLOAT64.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec2FLOAT64.outport.metasink" />
+                    <Processor content="org.inviwo.Vec2FLOAT64.outport.metasource" />
+                    <Processor content="org.inviwo.Vec2FLOAT64.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec2FLOAT64.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec3FLOAT64.outport.metasink" />
+                    <Processor content="org.inviwo.Vec3FLOAT64.outport.metasource" />
+                    <Processor content="org.inviwo.Vec3FLOAT64.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec3FLOAT64.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec4FLOAT64.outport.metasink" />
+                    <Processor content="org.inviwo.Vec4FLOAT64.outport.metasource" />
+                    <Processor content="org.inviwo.Vec4FLOAT64.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec4FLOAT64.vector.outport.metasource" />
+                    <Processor content="org.inviwo.INT32.outport.metasink" />
+                    <Processor content="org.inviwo.INT32.outport.metasource" />
+                    <Processor content="org.inviwo.INT32.vector.outport.metasink" />
+                    <Processor content="org.inviwo.INT32.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec2INT32.outport.metasink" />
+                    <Processor content="org.inviwo.Vec2INT32.outport.metasource" />
+                    <Processor content="org.inviwo.Vec2INT32.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec2INT32.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec3INT32.outport.metasink" />
+                    <Processor content="org.inviwo.Vec3INT32.outport.metasource" />
+                    <Processor content="org.inviwo.Vec3INT32.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec3INT32.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec4INT32.outport.metasink" />
+                    <Processor content="org.inviwo.Vec4INT32.outport.metasource" />
+                    <Processor content="org.inviwo.Vec4INT32.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec4INT32.vector.outport.metasource" />
+                    <Processor content="org.inviwo.UINT32.outport.metasink" />
+                    <Processor content="org.inviwo.UINT32.outport.metasource" />
+                    <Processor content="org.inviwo.UINT32.vector.outport.metasink" />
+                    <Processor content="org.inviwo.UINT32.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec2UINT32.outport.metasink" />
+                    <Processor content="org.inviwo.Vec2UINT32.outport.metasource" />
+                    <Processor content="org.inviwo.Vec2UINT32.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec2UINT32.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec3UINT32.outport.metasink" />
+                    <Processor content="org.inviwo.Vec3UINT32.outport.metasource" />
+                    <Processor content="org.inviwo.Vec3UINT32.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec3UINT32.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec4UINT32.outport.metasink" />
+                    <Processor content="org.inviwo.Vec4UINT32.outport.metasource" />
+                    <Processor content="org.inviwo.Vec4UINT32.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec4UINT32.vector.outport.metasource" />
+                    <Processor content="org.inviwo.INT64.outport.metasink" />
+                    <Processor content="org.inviwo.INT64.outport.metasource" />
+                    <Processor content="org.inviwo.INT64.vector.outport.metasink" />
+                    <Processor content="org.inviwo.INT64.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec2INT64.outport.metasink" />
+                    <Processor content="org.inviwo.Vec2INT64.outport.metasource" />
+                    <Processor content="org.inviwo.Vec2INT64.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec2INT64.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec3INT64.outport.metasink" />
+                    <Processor content="org.inviwo.Vec3INT64.outport.metasource" />
+                    <Processor content="org.inviwo.Vec3INT64.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec3INT64.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec4INT64.outport.metasink" />
+                    <Processor content="org.inviwo.Vec4INT64.outport.metasource" />
+                    <Processor content="org.inviwo.Vec4INT64.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec4INT64.vector.outport.metasource" />
+                    <Processor content="org.inviwo.UINT64.outport.metasink" />
+                    <Processor content="org.inviwo.UINT64.outport.metasource" />
+                    <Processor content="org.inviwo.UINT64.vector.outport.metasink" />
+                    <Processor content="org.inviwo.UINT64.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec2UINT64.outport.metasink" />
+                    <Processor content="org.inviwo.Vec2UINT64.outport.metasource" />
+                    <Processor content="org.inviwo.Vec2UINT64.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec2UINT64.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec3UINT64.outport.metasink" />
+                    <Processor content="org.inviwo.Vec3UINT64.outport.metasource" />
+                    <Processor content="org.inviwo.Vec3UINT64.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec3UINT64.vector.outport.metasource" />
+                    <Processor content="org.inviwo.Vec4UINT64.outport.metasink" />
+                    <Processor content="org.inviwo.Vec4UINT64.outport.metasource" />
+                    <Processor content="org.inviwo.Vec4UINT64.vector.outport.metasink" />
+                    <Processor content="org.inviwo.Vec4UINT64.vector.outport.metasource" />
+                    <Processor content="org.inviwo.CompositeProcessorEWiebkeInviwoinviwomasterdataworkspacescompositesVolumeRaycasterCompositeinv" />
+                </Processors>
+            </Module>
+            <Module name="OpenGL" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.CanvasGL" />
+                </Processors>
+            </Module>
+            <Module name="Base" version="4">
+                <Processors>
+                    <Processor content="org.inviwo.ConvexHull2DProcessor" />
+                    <Processor content="org.inviwo.CubeProxyGeometry" />
+                    <Processor content="org.inviwo.Diffuselightsource" />
+                    <Processor content="org.inviwo.Directionallightsource" />
+                    <Processor content="org.inviwo.DistanceTransformRAM" />
+                    <Processor content="org.inviwo.GridPlanes" />
+                    <Processor content="org.inviwo.GeometrySource" />
+                    <Processor content="org.inviwo.HeightFieldMapper" />
+                    <Processor content="org.inviwo.ImageExport" />
+                    <Processor content="org.inviwo.ImageInformation" />
+                    <Processor content="org.inviwo.ImageSnapshot" />
+                    <Processor content="org.inviwo.ImageSource" />
+                    <Processor content="org.inviwo.ImageSourceSeries" />
+                    <Processor content="org.inviwo.ImageStackVolumeSource" />
+                    <Processor content="org.inviwo.LayerDistanceTransformRAM" />
+                    <Processor content="org.inviwo.MeshClipping" />
+                    <Processor content="org.inviwo.MeshColorFromNormals" />
+                    <Processor content="org.inviwo.MeshCreator" />
+                    <Processor content="org.inviwo.MeshInformation" />
+                    <Processor content="org.inviwo.MeshMapping" />
+                    <Processor content="org.inviwo.MeshPlaneClipping" />
+                    <Processor content="org.inviwo.NoiseProcessor" />
+                    <Processor content="org.inviwo.PixelToBufferProcessor" />
+                    <Processor content="org.inviwo.Pointlightsource" />
+                    <Processor content="org.inviwo.OrdinalPropertyAnimator" />
+                    <Processor content="org.inviwo.Spotlightsource" />
+                    <Processor content="org.inviwo.SurfaceExtraction" />
+                    <Processor content="org.inviwo.VolumeBoundaryPlanes" />
+                    <Processor content="org.inviwo.VolumeSource" />
+                    <Processor content="org.inviwo.VolumeExport" />
+                    <Processor content="org.inviwo.BasisTransformGeometry" />
+                    <Processor content="org.inviwo.BasisTransformVolume" />
+                    <Processor content="org.inviwo.TrianglesToWireframe" />
+                    <Processor content="org.inviwo.TransformMesh" />
+                    <Processor content="org.inviwo.TransformVolume" />
+                    <Processor content="org.inviwo.VolumeConverter" />
+                    <Processor content="org.inviwo.WorldTransformMeshDeprecated" />
+                    <Processor content="org.inviwo.WorldTransformVolumeDeprecated" />
+                    <Processor content="org.inviwo.VolumeSlice" />
+                    <Processor content="org.inviwo.VolumeSubsample" />
+                    <Processor content="org.inviwo.VolumeSubset" />
+                    <Processor content="org.inviwo.ImageContourProcessor" />
+                    <Processor content="org.inviwo.VolumeVectorSource" />
+                    <Processor content="org.inviwo.TimeStepSelector" />
+                    <Processor content="org.inviwo.ImageTimeStepSelector" />
+                    <Processor content="org.inviwo.MeshTimeStepSelector" />
+                    <Processor content="org.inviwo.VolumeBoundingBox" />
+                    <Processor content="org.inviwo.SingleVoxel" />
+                    <Processor content="org.inviwo.StereoCameraSyncer" />
+                    <Processor content="org.inviwo.VolumeToSpatialSampler" />
+                    <Processor content="org.inviwo.OrientationIndicator" />
+                    <Processor content="org.inviwo.PixelValue" />
+                    <Processor content="org.inviwo.VolumeSequenceToSpatial4DSampler" />
+                    <Processor content="org.inviwo.VolumeGradientCPUProcessor" />
+                    <Processor content="org.inviwo.VolumeCurlCPUProcessor" />
+                    <Processor content="org.inviwo.VolumeDivergenceCPUProcessor" />
+                    <Processor content="org.inviwo.VolumeLaplacianProcessor" />
+                    <Processor content="org.inviwo.MeshExport" />
+                    <Processor content="org.inviwo.RandomMeshGenerator" />
+                    <Processor content="org.inviwo.RandomSphereGenerator" />
+                    <Processor content="org.inviwo.NoiseVolumeProcessor" />
+                    <Processor content="org.inviwo.BufferToMeshProcessor" />
+                    <Processor content="org.inviwo.ImageToSpatialSampler" />
+                    <Processor content="org.inviwo.CameraFrustum" />
+                    <Processor content="org.inviwo.VolumeSequenceSingleTimestepSampler" />
+                    <Processor content="org.inviwo.VolumeCreator" />
+                    <Processor content="org.inviwo.MeshConverter" />
+                    <Processor content="org.inviwo.VolumeInformation" />
+                    <Processor content="org.inviwo.TFSelector" />
+                    <Processor content="org.inviwo.VolumeShifter" />
+                    <Processor content="org.inviwo.Volume.InputSelector" />
+                    <Processor content="org.inviwo.Mesh.InputSelector" />
+                    <Processor content="org.inviwo.Image.InputSelector" />
+                </Processors>
+            </Module>
+            <Module name="BrushingAndLinking" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.BrushingAndLinkingProcessor" />
+                </Processors>
+            </Module>
+            <Module name="BaseGL" version="4">
+                <Processors>
+                    <Processor content="org.inviwo.AxisAlignedCutPlane" />
+                    <Processor content="org.inviwo.Background" />
+                    <Processor content="org.inviwo.CubeRenderer" />
+                    <Processor content="org.inviwo.DrawLines" />
+                    <Processor content="org.inviwo.DrawPoints" />
+                    <Processor content="org.inviwo.EmbeddedVolumeSlice" />
+                    <Processor content="org.inviwo.EntryExitPoints" />
+                    <Processor content="org.inviwo.FirstIVWProcessor" />
+                    <Processor content="org.inviwo.GeometryEntryExitPoints" />
+                    <Processor content="org.inviwo.HeightFieldRenderGL" />
+                    <Processor content="org.inviwo.ImageCompositeProcessorGL" />
+                    <Processor content="org.inviwo.ImageLayoutGL" />
+                    <Processor content="org.inviwo.ImageMixer" />
+                    <Processor content="org.inviwo.ImageOverlayGL" />
+                    <Processor content="org.inviwo.ISORaycaster" />
+                    <Processor content="org.inviwo.Jacobian2D" />
+                    <Processor content="org.inviwo.LightingRaycaster" />
+                    <Processor content="org.inviwo.LightVolumeGL" />
+                    <Processor content="org.inviwo.LineRenderer" />
+                    <Processor content="org.inviwo.Mesh2DRenderProcessorGL" />
+                    <Processor content="org.inviwo.GeometryPicking" />
+                    <Processor content="org.inviwo.GeometryRenderGL" />
+                    <Processor content="org.inviwo.MultichannelRaycaster" />
+                    <Processor content="org.inviwo.PointRenderer" />
+                    <Processor content="org.inviwo.RedGreenProcessor" />
+                    <Processor content="org.inviwo.SphereRenderer" />
+                    <Processor content="org.inviwo.TubeRendering" />
+                    <Processor content="org.inviwo.VolumeRaycaster" />
+                    <Processor content="org.inviwo.VolumeSliceGL" />
+                    <Processor content="org.inviwo.FindEdges" />
+                    <Processor content="org.inviwo.ImageBinary" />
+                    <Processor content="org.inviwo.ImageChannelCombine" />
+                    <Processor content="org.inviwo.ImageChannelSelect" />
+                    <Processor content="org.inviwo.ImageGamma" />
+                    <Processor content="org.inviwo.ImageGradient" />
+                    <Processor content="org.inviwo.ImageGrayscale" />
+                    <Processor content="org.inviwo.ImageHighPass" />
+                    <Processor content="org.inviwo.ImageInvert" />
+                    <Processor content="org.inviwo.ImageLayer" />
+                    <Processor content="org.inviwo.ImageLowPass" />
+                    <Processor content="org.inviwo.ImageMapping" />
+                    <Processor content="org.inviwo.ImageNormalization" />
+                    <Processor content="org.inviwo.ImageResample" />
+                    <Processor content="org.inviwo.ImageScaling" />
+                    <Processor content="org.inviwo.ImageSubsetGL" />
+                    <Processor content="org.inviwo.SplitImage" />
+                    <Processor content="org.inviwo.VectorMagnitude" />
+                    <Processor content="org.inviwo.VolumeBinary" />
+                    <Processor content="org.inviwo.VolumeCombiner" />
+                    <Processor content="org.inviwo.VolumeDiff" />
+                    <Processor content="org.inviwo.VolumeGradientMagnitude" />
+                    <Processor content="org.inviwo.VolumeGradient" />
+                    <Processor content="org.inviwo.VolumeLowPass" />
+                    <Processor content="org.inviwo.VolumeMapping" />
+                    <Processor content="org.inviwo.VolumeMerger" />
+                    <Processor content="org.inviwo.VolumeRegionShrink" />
+                    <Processor content="org.inviwo.VolumeShader" />
+                </Processors>
+            </Module>
+            <Module name="Animation" version="1" />
+            <Module name="QtWidgets" version="0" />
+            <Module name="AnimationQt" version="0" />
+            <Module name="assimp" version="0" />
+            <Module name="OpenGLQt" version="0" />
+            <Module name="CImg" version="0" />
+            <Module name="JSON" version="0" />
+            <Module name="DataFrame" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.CSVSource" />
+                    <Processor content="org.inviwo.DataFrameJoin" />
+                    <Processor content="org.inviwo.DataFrameSource" />
+                    <Processor content="org.inviwo.DataFrameExporter" />
+                    <Processor content="org.inviwo.DataFrameFloat32Converter" />
+                    <Processor content="org.inviwo.ImageToDataFrame" />
+                    <Processor content="org.inviwo.SyntheticDataFrame" />
+                    <Processor content="org.inviwo.VolumeToDataFrame" />
+                    <Processor content="org.inviwo.VolumeSequenceToDataFrame" />
+                    <Processor content="org.inviwo.DataFrame.outport.metasink" />
+                    <Processor content="org.inviwo.DataFrame.outport.metasource" />
+                </Processors>
+            </Module>
+            <Module name="Python3" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.PythonExample" />
+                    <Processor content="org.inviwo.NumPyVolume" />
+                    <Processor content="org.inviwo.NumpyMandelbrot" />
+                    <Processor content="org.inviwo.NumPyMeshCreateTest" />
+                    <Processor content="org.inviwo.PythonScriptProcessor" />
+                </Processors>
+            </Module>
+            <Module name="DataFramePython" version="0" />
+            <Module name="DataFrameQt" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.DataFrameTable" />
+                </Processors>
+            </Module>
+            <Module name="EigenUtils" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.EigenMatrixToImage" />
+                    <Processor content="org.inviwo.EigenMix" />
+                    <Processor content="org.inviwo.EigenNormalize" />
+                    <Processor content="org.inviwo.TestMatrix" />
+                    <Processor content="EigenMatrixXf.outport.metasink" />
+                    <Processor content="EigenMatrixXf.outport.metasource" />
+                </Processors>
+            </Module>
+            <Module name="FontRendering" version="3">
+                <Processors>
+                    <Processor content="org.inviwo.TextOverlayGL" />
+                </Processors>
+            </Module>
+            <Module name="MeshRenderingGL" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.LineRasterizer" />
+                    <Processor content="org.inviwo.MeshRasterizer" />
+                    <Processor content="org.inviwo.RasterizationRenderer" />
+                    <Processor content="org.inviwo.TransformRasterization" />
+                    <Processor content="org.inviwo.CalcNormalsProcessor" />
+                </Processors>
+            </Module>
+            <Module name="Nifti" version="0" />
+            <Module name="Plotting" version="1">
+                <Processors>
+                    <Processor content="org.inviwo.DataFrameColumnToColorVector" />
+                </Processors>
+            </Module>
+            <Module name="UserInterfaceGL" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.CameraWidget" />
+                    <Processor content="org.inviwo.CropWidget" />
+                    <Processor content="org.inviwo.GLUIProcessor" />
+                    <Processor content="org.inviwo.PresentationProcessor" />
+                    <Processor content="org.inviwo.GLUITestProcessor" />
+                </Processors>
+            </Module>
+            <Module name="PlottingGL" version="2">
+                <Processors>
+                    <Processor content="org.inviwo.AxisRenderProcessor" />
+                    <Processor content="org.inviwo.ColorScaleLegend" />
+                    <Processor content="org.inviwo.ImagePlotProcessor" />
+                    <Processor content="org.inviwo.ParallelCoordinates" />
+                    <Processor content="org.inviwo.PersistenceDiagramPlotProcessor" />
+                    <Processor content="org.inviwo.ScatterPlotMatrixProcessor" />
+                    <Processor content="org.inviwo.ScatterPlotProcessor" />
+                    <Processor content="org.inviwo.VolumeAxis" />
+                </Processors>
+            </Module>
+            <Module name="png" version="0" />
+            <Module name="PostProcessing" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.DepthOfField" />
+                    <Processor content="org.inviwo.SSAO" />
+                    <Processor content="org.inviwo.FXAA" />
+                    <Processor content="org.inviwo.Fog" />
+                    <Processor content="org.inviwo.Tonemapping" />
+                    <Processor content="org.inviwo.HdrBloom" />
+                    <Processor content="org.inviwo.ImageBrightnessContrast" />
+                    <Processor content="org.inviwo.ImageEdgeDarken" />
+                    <Processor content="org.inviwo.DepthDarkening" />
+                    <Processor content="org.inviwo.ImageHueSaturationLuminance" />
+                    <Processor content="org.inviwo.ImageFilter" />
+                    <Processor content="org.inviwo.ImageOpacity" />
+                </Processors>
+            </Module>
+            <Module name="PVM" version="0" />
+            <Module name="Python3Qt" version="0" />
+            <Module name="VectorFieldVisualization" version="4">
+                <Processors>
+                    <Processor content="org.inviwo.RBFVectorFieldGenerator2D" />
+                    <Processor content="org.inviwo.RBFBased3DVectorFieldGenerator" />
+                    <Processor content="org.inviwo.SeedPointGenerator3D" />
+                    <Processor content="org.inviwo.SeedPointsFromMask" />
+                    <Processor content="org.inviwo.StreamLinesDeprecated" />
+                    <Processor content="org.inviwo.PathLinesDeprecated" />
+                    <Processor content="org.inviwo.StreamRibbonsDeprecated" />
+                    <Processor content="org.inviwo.IntegralLineVectorToMesh" />
+                    <Processor content="org.inviwo.Seed3Dto4D" />
+                    <Processor content="org.inviwo.StreamLines2D" />
+                    <Processor content="org.inviwo.StreamLines3D" />
+                    <Processor content="org.inviwo.PathLines3D" />
+                    <Processor content="org.inviwo.SeedsFromMaskSequence" />
+                    <Processor content="org.inviwo.DiscardShortLines" />
+                    <Processor content="org.inviwo.SeedPointGenerator2D" />
+                    <Processor content="org.inviwo.IntegralLineSetSelector" />
+                    <Processor content="org.inviwo.IntegralLineSet.outport.metasink" />
+                    <Processor content="org.inviwo.IntegralLineSet.outport.metasource" />
+                </Processors>
+            </Module>
+            <Module name="VectorFieldVisualizationGL" version="1">
+                <Processors>
+                    <Processor content="org.inviwo.LorenzSystem" />
+                    <Processor content="org.inviwo.VectorFieldGenerator2D" />
+                    <Processor content="org.inviwo.VectorFieldGenerator3D" />
+                    <Processor content="org.inviwo.LIC2D" />
+                    <Processor content="org.inviwo.HedgeHog2D" />
+                    <Processor content="org.inviwo.Vector2DMagnitude" />
+                    <Processor content="org.inviwo.Vector2DCurl" />
+                    <Processor content="org.inviwo.Vector2DDivergence" />
+                    <Processor content="org.inviwo.LIC3D" />
+                    <Processor content="org.inviwo.Vector3DCurl" />
+                    <Processor content="org.inviwo.Vector3DDivergence" />
+                    <Processor content="org.inviwo.TMIP" />
+                    <Processor content="org.inviwo.VectorFieldGenerator4D" />
+                    <Processor content="org.inviwo.StreamParticles" />
+                </Processors>
+            </Module>
+            <Module name="Volume" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.VolumeVoronoiSegmentation" />
+                </Processors>
+            </Module>
+            <Module name="WebBrowser" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.webbrowser" />
+                </Processors>
+            </Module>
+            <Module name="ContourTreeVis" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.OrthogonalContourTreeLayout" />
+                </Processors>
+            </Module>
+            <Module name="Tools" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.GaussianSmoothing" />
+                    <Processor content="org.inviwo.VolumeFromSliceSequence" />
+                    <Processor content="org.inviwo.VolumeRepeaterToSequence" />
+                    <Processor content="org.inviwo.VolumeSequenceClampValueRange" />
+                    <Processor content="org.inviwo.VolumeShiftAndReverse" />
+                    <Processor content="org.inviwo.VolumeSequenceFromSlices" />
+                    <Processor content="org.inviwo.VolumeSourceSeries" />
+                    <Processor content="org.inviwo.VolumeSeriesFromSlices" />
+                </Processors>
+            </Module>
+            <Module name="ToolsQt" version="0" />
+            <Module name="TemporalTreeMaps" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.TemporalTreeWriter" />
+                    <Processor content="org.inviwo.TemporalTreeSource" />
+                    <Processor content="org.inviwo.TemporalTreeGenerateFromFileSystem" />
+                    <Processor content="org.inviwo.TemporalTreeGenerateFromGit" />
+                    <Processor content="org.inviwo.TemporalTreeLayoutRenderer" />
+                    <Processor content="org.inviwo.TemporalTreeConsistencyCheck" />
+                    <Processor content="org.inviwo.TemporalTreeFilter" />
+                    <Processor content="org.inviwo.TemporalTreeColoring" />
+                    <Processor content="org.inviwo.TemporalTreeGenerateFromTrackingGraph" />
+                    <Processor content="org.inviwo.TemporalTreeMeshGenerator" />
+                    <Processor content="org.inviwo.TemporalTreeMeshGeneratorTopo" />
+                    <Processor content="org.inviwo.TemporalTreeLayoutComputation" />
+                    <Processor content="org.inviwo.TemporalTreeCushionComputation" />
+                    <Processor content="org.inviwo.TemporalTreeGenerateFromCSV" />
+                    <Processor content="org.inviwo.TemporalTreeStatistics" />
+                    <Processor content="org.inviwo.TemporalTreeOrderComputationHeuristic" />
+                    <Processor content="org.inviwo.TemporalTreeOrderComputationSAEdges" />
+                    <Processor content="org.inviwo.TemporalTreeOrderComputationSAConstraints" />
+                    <Processor content="org.inviwo.TemporalTreeOrderComputationSANodes" />
+                    <Processor content="org.inviwo.TemporalTreeOrderComputationGreedy" />
+                    <Processor content="org.inviwo.NTGRenderer" />
+                    <Processor content="org.inviwo.TreeConverter" />
+                    <Processor content="org.inviwo.TreeOrderCheckConstraints" />
+                </Processors>
+            </Module>
+            <Module name="SpringSystem" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.SpringSystemExampleProcessor" />
+                </Processors>
+            </Module>
+            <Module name="TopologyToolKit" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.ContourTreeToDataFrame" />
+                    <Processor content="org.inviwo.ContourTreeToMesh" />
+                    <Processor content="org.inviwo.MorseSmaleComplex" />
+                    <Processor content="org.inviwo.MorseSmaleComplexToMesh" />
+                    <Processor content="org.inviwo.ttk.TTKTestProcessor" />
+                    <Processor content="org.inviwo.ttk.MeshToTriangulation" />
+                    <Processor content="org.inviwo.SeparatrixRefiner" />
+                    <Processor content="org.inviwo.TrackingFromFields" />
+                    <Processor content="org.inviwo.ttk.VolumeToTriangulation" />
+                    <Processor content="org.inviwo.ttk.TriangulationToMesh" />
+                    <Processor content="org.inviwo.ttk.PersistenceCurve" />
+                    <Processor content="org.inviwo.ttk.TopologicalSimplification" />
+                    <Processor content="org.inviwo.ttk.PersistenceDiagram" />
+                    <Processor content="org.inviwo.ttk.TriangulationToVolume" />
+                    <Processor content="org.inviwo.ContourTree" />
+                    <Processor content="org.inviwo.topology.contourtreedata.outport.metasink" />
+                    <Processor content="org.inviwo.topology.contourtreedata.outport.metasource" />
+                    <Processor content="org.inviwo.topology.morsesmalecomplexdata.outport.metasink" />
+                    <Processor content="org.inviwo.topology.morsesmalecomplexdata.outport.metasource" />
+                    <Processor content="TriangulationData.outport.metasink" />
+                    <Processor content="TriangulationData.outport.metasource" />
+                    <Processor content="org.topology.persistencediagramdata.outport.metasink" />
+                    <Processor content="org.topology.persistencediagramdata.outport.metasource" />
+                </Processors>
+            </Module>
+            <Module name="MergeTreeMaps" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.ArcSizeBoxPlot" />
+                    <Processor content="org.inviwo.ArcSizeHistogram" />
+                    <Processor content="org.inviwo.CarrDataSetExample" />
+                    <Processor content="org.inviwo.GaussianRandomFieldGenerator" />
+                    <Processor content="org.inviwo.IndexToTimeStampText" />
+                    <Processor content="org.inviwo.LoadStormTrack" />
+                    <Processor content="org.inviwo.MergeTreeExample" />
+                    <Processor content="org.inviwo.OverlapMatrixBoxPlot" />
+                    <Processor content="org.inviwo.PersistenceCurveEnsemble" />
+                    <Processor content="org.inviwo.SkewedNormal2D" />
+                    <Processor content="org.inviwo.SpreadingRingGeneration" />
+                    <Processor content="org.inviwo.VolumeSuperSample" />
+                    <Processor content="org.inviwo.CompareLandscapeMergeTreeToOriginal" />
+                    <Processor content="org.inviwo.ContourTreeForSpaceTimeToLandscape" />
+                    <Processor content="org.inviwo.ContourTreesForSequence" />
+                    <Processor content="org.inviwo.ContourTreeTimeStepSelector" />
+                    <Processor content="org.inviwo.ContourTreeSequenceToLandscape" />
+                    <Processor content="org.inviwo.ContourTreeToLandscape" />
+                    <Processor content="org.inviwo.DataFrameSequenceElementSelector" />
+                    <Processor content="org.inviwo.DataFrameToImage" />
+                    <Processor content="org.inviwo.DecisionsSource" />
+                    <Processor content="org.inviwo.DecisionsWriter" />
+                    <Processor content="org.inviwo.EvaluateMergeTreeMap" />
+                    <Processor content="org.inviwo.GenerateDataTargetLevelSet" />
+                    <Processor content="org.inviwo.GenerateMovingSkewedNormals" />
+                    <Processor content="org.inviwo.MergeTreeMap" />
+                    <Processor content="org.inviwo.MergeTreeMapDifference" />
+                    <Processor content="org.inviwo.MergeTreeMapIndexToSpace" />
+                    <Processor content="org.inviwo.MergeTreeMapSimplification1D" />
+                    <Processor content="org.inviwo.MergeTreeMapTrackingOverlay" />
+                    <Processor content="org.inviwo.OptimizeMergeTreeMap" />
+                    <Processor content="org.inviwo.OptimizeMergeTreeMapGreedy" />
+                    <Processor content="org.inviwo.OrderingFromSpaceTimeContourTree" />
+                    <Processor content="org.inviwo.PersistenceCurvesForSequence" />
+                    <Processor content="org.inviwo.PersistenceDiagramForSequence" />
+                    <Processor content="org.inviwo.SegmentationFromContourTree" />
+                    <Processor content="org.inviwo.SegmentationsFromContourTrees" />
+                    <Processor content="org.inviwo.TopologicalSimplificationForSequence" />
+                    <Processor content="org.inviwo.TrackingFromContourTreeLeaves" />
+                    <Processor content="org.inviwo.TrackingQualityEstimator" />
+                    <Processor content="org.inviwo.TreeGenerateFromTrackedContourTrees" />
+                    <Processor content="org.inviwo.TriangulationSequenceElementSelector" />
+                    <Processor content="org.inviwo.TriangulationToVolumeForSequence" />
+                    <Processor content="org.inviwo.VolumeToTriangulationForSequence" />
+                    <Processor content="org.inviwo.topology.contourtreedata.shared_ptr.vector.outport.metasink" />
+                    <Processor content="org.inviwo.topology.contourtreedata.shared_ptr.vector.outport.metasource" />
+                    <Processor content="TriangulationData.shared_ptr.vector.outport.metasink" />
+                    <Processor content="TriangulationData.shared_ptr.vector.outport.metasource" />
+                    <Processor content="org.topology.persistencediagramdata.shared_ptr.vector.outport.metasink" />
+                    <Processor content="org.topology.persistencediagramdata.shared_ptr.vector.outport.metasource" />
+                    <Processor content="org.inviwo.DataFrame.shared_ptr.vector.outport.metasink" />
+                    <Processor content="org.inviwo.DataFrame.shared_ptr.vector.outport.metasource" />
+                    <Processor content="org.inviwo.INT32.vector.vector.outport.metasink" />
+                    <Processor content="org.inviwo.INT32.vector.vector.outport.metasource" />
+                </Processors>
+            </Module>
+            <Module name="DevTools" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.ImageEventLogger" />
+                    <Processor content="org.inviwo.LogRendererProcessors" />
+                    <Processor content="org.inviwo.VolumeEventLogger" />
+                    <Processor content="org.inviwo.MeshEventLogger" />
+                    <Processor content="org.inviwo.BrushingAndLinkingEventLogger" />
+                </Processors>
+            </Module>
+            <Module name="netcdf" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.netcdf.netcdfimagesource" />
+                    <Processor content="org.inviwo.netcdf.netcdfvolumesequencesource" />
+                    <Processor content="org.inviwo.netcdf.netcdfvolumesource" />
+                </Processors>
+            </Module>
+            <Module name="PythonTools" version="0">
+                <Processors>
+                    <Processor content="org.inviwo.CameraTrajectory" />
+                    <Processor content="org.inviwo.FileGlob" />
+                    <Processor content="org.inviwo.FishEyeHelper" />
+                    <Processor content="org.inviwo.ImageRecorder" />
+                    <Processor content="org.inviwo.VolumeExtractChannel" />
+                </Processors>
+            </Module>
+        </Modules>
+    </InviwoSetup>
+    <ProcessorNetwork>
+        <ProcessorNetworkVersion content="18" />
+        <Processors>
+            <Processor type="org.inviwo.TimeStepSelector" identifier="VolumeSequenceElementSelector" displayName="Volume Sequence Element Selector">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.SequenceTimerProperty" identifier="timeStep">
+                        <Properties>
+                            <Property type="org.inviwo.Size_tProperty" identifier="selectedSequenceIndex">
+                                <displayName content="Sequence Index" />
+                                <semantics semantics="Default" />
+                                <usageMode content="1" />
+                                <visible content="1" />
+                                <readonly content="0" />
+                                <MetaDataMap>
+                                    <MetaDataItem type="org.inviwo.StringStringStdUnorderedMapMetaData" key="SavedState" />
+                                </MetaDataMap>
+                                <minConstraint content="0" />
+                                <maxConstraint content="0" />
+                                <minvalue content="1" />
+                                <maxvalue content="10" />
+                                <increment content="1" />
+                                <value content="1" />
+                            </Property>
+                        </Properties>
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="275" y="175" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.GeometryRenderGL" identifier="MeshRenderer" displayName="Mesh Renderer">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.CameraProperty" identifier="camera">
+                        <Properties>
+                            <Property type="org.inviwo.FloatVec3RefProperty" identifier="lookFrom">
+                                <minvalue x="-1.4195247" y="-6.2280002" z="-3.061321" />
+                                <maxvalue x="1.0955245" y="6.2719998" z="2.153321" />
+                            </Property>
+                            <Property type="org.inviwo.FloatVec3RefProperty" identifier="lookTo">
+                                <minvalue x="-0.21230099" y="-0.228" z="-0.55829287" />
+                                <maxvalue x="-0.11169901" y="0.27200001" z="-0.34970716" />
+                            </Property>
+                            <Property type="org.inviwo.FloatRefProperty" identifier="near">
+                                <minvalue content="6.5e-05" />
+                            </Property>
+                            <Property type="org.inviwo.FloatRefProperty" identifier="far">
+                                <minvalue content="0.64999998" />
+                            </Property>
+                        </Properties>
+                        <Camera type="PerspectiveCamera">
+                            <lookFrom x="0.53219593" y="-0.92522353" z="-0.2683053" />
+                            <lookTo x="0.15000001" y="0" z="-0.40000001" />
+                            <lookUp x="-0.086349808" y="0.10534202" z="0.99067992" />
+                            <near content="0.0026" />
+                            <far content="26" />
+                            <aspectRatio content="2.1410713" />
+                            <fov content="38" />
+                        </Camera>
+                    </Property>
+                    <Property type="org.inviwo.SimpleLightingProperty" identifier="lighting">
+                        <Properties>
+                            <Property type="org.inviwo.OptionPropertyInt" identifier="shadingMode">
+                                <selectedIdentifier content="blinnphong" />
+                            </Property>
+                            <Property type="org.inviwo.FloatVec3Property" identifier="lightColorAmbient">
+                                <value x="0.9254902" y="0.9254902" z="0.9254902" />
+                            </Property>
+                        </Properties>
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="700" y="275" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.VolumeVectorSource" identifier="VolumeSequenceSource" displayName="Volume Sequence Source">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.DirectoryProperty" identifier="folder">
+                        <absolutePath content="E:/Data/Tangaroa/Magnitude" />
+                        <workspaceRelativePath content="../../../../../../../Data/Tangaroa/Magnitude" />
+                        <ivwdataRelativePath content="../../../../Data/Tangaroa/Magnitude" />
+                        <selectedExtension>
+                            <extension content="am" />
+                            <description content="Amira Mesh binary file" />
+                        </selectedExtension>
+                        <acceptMode content="0" />
+                        <fileMode content="4" />
+                    </Property>
+                    <Property type="org.inviwo.StringProperty" identifier="filter_">
+                        <value content="*-1.0*.dat" />
+                    </Property>
+                    <Property type="org.inviwo.VolumeInformationProperty" identifier="Information">
+                        <readonly content="1" />
+                        <Properties>
+                            <Property type="org.inviwo.DoubleMinMaxProperty" identifier="dataRange">
+                                <displayName content="Data range" />
+                                <semantics semantics="Text" />
+                                <usageMode content="1" />
+                                <visible content="1" />
+                                <readonly content="1" />
+                                <range x="-1.7976931348623157e+308" y="1.7976931348623157e+308" />
+                                <increment content="0" />
+                                <minSeparation content="0" />
+                                <value x="0" y="1.5972864627838135" />
+                            </Property>
+                            <Property type="org.inviwo.DoubleMinMaxProperty" identifier="valueRange">
+                                <displayName content="Value range" />
+                                <semantics semantics="Text" />
+                                <usageMode content="1" />
+                                <visible content="1" />
+                                <readonly content="1" />
+                                <range x="-1.7976931348623157e+308" y="1.7976931348623157e+308" />
+                                <increment content="0" />
+                                <minSeparation content="0" />
+                                <value x="0" y="1.5972864627838135" />
+                            </Property>
+                            <Property type="org.inviwo.StringProperty" identifier="valueUnit">
+                                <displayName content="Value unit" />
+                                <semantics semantics="Default" />
+                                <usageMode content="1" />
+                                <visible content="1" />
+                                <readonly content="1" />
+                                <value content="arb." />
+                            </Property>
+                        </Properties>
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="475" y="100" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.VolumeSequenceClampValueRange" identifier="VolumeSequenceClampValueRange" displayName="Volume Sequence Clamp Value Range">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.DoubleMinMaxProperty" identifier="dataRange">
+                        <value x="0" y="1.5972864627838135" />
+                    </Property>
+                    <Property type="org.inviwo.DoubleMinMaxProperty" identifier="targetRange">
+                        <value x="0" y="2" />
+                    </Property>
+                    <Property type="org.inviwo.BoolProperty" identifier="createMask">
+                        <value content="1" />
+                    </Property>
+                    <Property type="org.inviwo.DoubleProperty" identifier="maskOutEps">
+                        <value content="1.0000000000000001e-09" />
+                    </Property>
+                    <Property type="org.inviwo.DoubleProperty" identifier="maskOutNewValue">
+                        <value content="1" />
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="475" y="175" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.CanvasGL" identifier="Canvas" displayName="Canvas">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.CompositeProperty" identifier="inputSize">
+                        <Properties>
+                            <Property type="org.inviwo.IntSize2Property" identifier="customInputDimensions">
+                                <readonly content="1" />
+                                <value x="644" y="776" />
+                            </Property>
+                        </Properties>
+                    </Property>
+                    <Property type="org.inviwo.IntVec2Property" identifier="position">
+                        <value x="341" y="131" />
+                    </Property>
+                    <Property type="org.inviwo.IntProperty" identifier="colorLayer_">
+                        <displayName content="Color Layer ID" />
+                        <semantics semantics="Default" />
+                        <usageMode content="1" />
+                        <visible content="0" />
+                        <readonly content="0" />
+                        <minConstraint content="0" />
+                        <maxConstraint content="0" />
+                        <minvalue content="0" />
+                        <maxvalue content="0" />
+                        <increment content="1" />
+                        <value content="0" />
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="700" y="350" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                    <MetaDataItem type="org.inviwo.ProcessorWidgetMetaData" key="org.inviwo.ProcessorWidgetMetaData">
+                        <position x="341" y="131" />
+                        <dimensions x="644" y="776" />
+                        <visibility content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.GeometrySource" identifier="MeshSource" displayName="Mesh Source">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.FileProperty" identifier="filename">
+                        <displayName content="Geometry file" />
+                        <absolutePath content="E:/Data/Tangaroa/tangaroa.stl" />
+                        <workspaceRelativePath content="../../../../../../../Data/Tangaroa/tangaroa.stl" />
+                        <ivwdataRelativePath content="../../../../Data/Tangaroa/tangaroa.stl" />
+                        <selectedExtension>
+                            <extension content="*" />
+                            <description content="All Files" />
+                        </selectedExtension>
+                        <acceptMode content="0" />
+                        <fileMode content="0" />
+                    </Property>
+                    <Property type="org.inviwo.OptionPropertyFileExtension" identifier="reader">
+                        <options>
+                            <option>
+                                <id content="3D GameStudio Heightmap (HMP) Importer (*.hmp)" />
+                                <name content="3D GameStudio Heightmap (HMP) Importer (*.hmp)" />
+                                <value>
+                                    <extension content="hmp" />
+                                    <description content="3D GameStudio Heightmap (HMP) Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="3mf Importer (*.3mf)" />
+                                <name content="3mf Importer (*.3mf)" />
+                                <value>
+                                    <extension content="3mf" />
+                                    <description content="3mf Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="AC3D Importer (*.ac)" />
+                                <name content="AC3D Importer (*.ac)" />
+                                <value>
+                                    <extension content="ac" />
+                                    <description content="AC3D Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="AC3D Importer (*.ac3d)" />
+                                <name content="AC3D Importer (*.ac3d)" />
+                                <value>
+                                    <extension content="ac3d" />
+                                    <description content="AC3D Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="AC3D Importer (*.acc)" />
+                                <name content="AC3D Importer (*.acc)" />
+                                <value>
+                                    <extension content="acc" />
+                                    <description content="AC3D Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="ASE Importer (*.ase)" />
+                                <name content="ASE Importer (*.ase)" />
+                                <value>
+                                    <extension content="ase" />
+                                    <description content="ASE Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="ASE Importer (*.ask)" />
+                                <name content="ASE Importer (*.ask)" />
+                                <value>
+                                    <extension content="ask" />
+                                    <description content="ASE Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Additive manufacturing file format(AMF) Importer (*.amf)" />
+                                <name content="Additive manufacturing file format(AMF) Importer (*.amf)" />
+                                <value>
+                                    <extension content="amf" />
+                                    <description content="Additive manufacturing file format(AMF) Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Assimp Binary Importer (*.assbin)" />
+                                <name content="Assimp Binary Importer (*.assbin)" />
+                                <value>
+                                    <extension content="assbin" />
+                                    <description content="Assimp Binary Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Autodesk FBX Importer (*.fbx)" />
+                                <name content="Autodesk FBX Importer (*.fbx)" />
+                                <value>
+                                    <extension content="fbx" />
+                                    <description content="Autodesk FBX Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="BVH Importer (MoCap) (*.bvh)" />
+                                <name content="BVH Importer (MoCap) (*.bvh)" />
+                                <value>
+                                    <extension content="bvh" />
+                                    <description content="BVH Importer (MoCap)" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Blender 3D Importer &#x0A;http://www.blender3d.org (*.blend)" />
+                                <name content="Blender 3D Importer &#x0A;http://www.blender3d.org (*.blend)" />
+                                <value>
+                                    <extension content="blend" />
+                                    <description content="Blender 3D Importer &#x0A;http://www.blender3d.org" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="BlitzBasic 3D Importer (*.b3d)" />
+                                <name content="BlitzBasic 3D Importer (*.b3d)" />
+                                <value>
+                                    <extension content="b3d" />
+                                    <description content="BlitzBasic 3D Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="CharacterStudio Motion Importer (MoCap) (*.csm)" />
+                                <name content="CharacterStudio Motion Importer (MoCap) (*.csm)" />
+                                <value>
+                                    <extension content="csm" />
+                                    <description content="CharacterStudio Motion Importer (MoCap)" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Collada Importer (*.dae)" />
+                                <name content="Collada Importer (*.dae)" />
+                                <value>
+                                    <extension content="dae" />
+                                    <description content="Collada Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Collada Importer (*.zae)" />
+                                <name content="Collada Importer (*.zae)" />
+                                <value>
+                                    <extension content="zae" />
+                                    <description content="Collada Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Direct3D XFile Importer (*.x)" />
+                                <name content="Direct3D XFile Importer (*.x)" />
+                                <value>
+                                    <extension content="x" />
+                                    <description content="Direct3D XFile Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Discreet 3DS Importer (*.3ds)" />
+                                <name content="Discreet 3DS Importer (*.3ds)" />
+                                <value>
+                                    <extension content="3ds" />
+                                    <description content="Discreet 3DS Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Discreet 3DS Importer (*.prj)" />
+                                <name content="Discreet 3DS Importer (*.prj)" />
+                                <value>
+                                    <extension content="prj" />
+                                    <description content="Discreet 3DS Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Doom 3 / MD5 Mesh Importer (*.md5anim)" />
+                                <name content="Doom 3 / MD5 Mesh Importer (*.md5anim)" />
+                                <value>
+                                    <extension content="md5anim" />
+                                    <description content="Doom 3 / MD5 Mesh Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Doom 3 / MD5 Mesh Importer (*.md5camera)" />
+                                <name content="Doom 3 / MD5 Mesh Importer (*.md5camera)" />
+                                <value>
+                                    <extension content="md5camera" />
+                                    <description content="Doom 3 / MD5 Mesh Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Doom 3 / MD5 Mesh Importer (*.md5mesh)" />
+                                <name content="Doom 3 / MD5 Mesh Importer (*.md5mesh)" />
+                                <value>
+                                    <extension content="md5mesh" />
+                                    <description content="Doom 3 / MD5 Mesh Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Drawing Interchange Format (DXF) Importer (*.dxf)" />
+                                <name content="Drawing Interchange Format (DXF) Importer (*.dxf)" />
+                                <value>
+                                    <extension content="dxf" />
+                                    <description content="Drawing Interchange Format (DXF) Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Extensible 3D(X3D) Importer (*.x3d)" />
+                                <name content="Extensible 3D(X3D) Importer (*.x3d)" />
+                                <value>
+                                    <extension content="x3d" />
+                                    <description content="Extensible 3D(X3D) Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Extensible 3D(X3D) Importer (*.x3db)" />
+                                <name content="Extensible 3D(X3D) Importer (*.x3db)" />
+                                <value>
+                                    <extension content="x3db" />
+                                    <description content="Extensible 3D(X3D) Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Industry Foundation Classes (IFC) Importer (*.ifc)" />
+                                <name content="Industry Foundation Classes (IFC) Importer (*.ifc)" />
+                                <value>
+                                    <extension content="ifc" />
+                                    <description content="Industry Foundation Classes (IFC) Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Industry Foundation Classes (IFC) Importer (*.ifczip)" />
+                                <name content="Industry Foundation Classes (IFC) Importer (*.ifczip)" />
+                                <value>
+                                    <extension content="ifczip" />
+                                    <description content="Industry Foundation Classes (IFC) Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Industry Foundation Classes (IFC) Importer (*.stp)" />
+                                <name content="Industry Foundation Classes (IFC) Importer (*.stp)" />
+                                <value>
+                                    <extension content="stp" />
+                                    <description content="Industry Foundation Classes (IFC) Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Irrlicht Mesh Reader (*.irrmesh)" />
+                                <name content="Irrlicht Mesh Reader (*.irrmesh)" />
+                                <value>
+                                    <extension content="irrmesh" />
+                                    <description content="Irrlicht Mesh Reader" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Irrlicht Mesh Reader (*.xml)" />
+                                <name content="Irrlicht Mesh Reader (*.xml)" />
+                                <value>
+                                    <extension content="xml" />
+                                    <description content="Irrlicht Mesh Reader" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Irrlicht Scene Reader (*.irr)" />
+                                <name content="Irrlicht Scene Reader (*.irr)" />
+                                <value>
+                                    <extension content="irr" />
+                                    <description content="Irrlicht Scene Reader" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Irrlicht Scene Reader (*.xml)" />
+                                <name content="Irrlicht Scene Reader (*.xml)" />
+                                <value>
+                                    <extension content="xml" />
+                                    <description content="Irrlicht Scene Reader" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="LightWave Scene Importer (*.lws)" />
+                                <name content="LightWave Scene Importer (*.lws)" />
+                                <value>
+                                    <extension content="lws" />
+                                    <description content="LightWave Scene Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="LightWave Scene Importer (*.mot)" />
+                                <name content="LightWave Scene Importer (*.mot)" />
+                                <value>
+                                    <extension content="mot" />
+                                    <description content="LightWave Scene Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="LightWave/Modo Object Importer (*.lwo)" />
+                                <name content="LightWave/Modo Object Importer (*.lwo)" />
+                                <value>
+                                    <extension content="lwo" />
+                                    <description content="LightWave/Modo Object Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="LightWave/Modo Object Importer (*.lxo)" />
+                                <name content="LightWave/Modo Object Importer (*.lxo)" />
+                                <value>
+                                    <extension content="lxo" />
+                                    <description content="LightWave/Modo Object Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="MMD Importer (*.pmx)" />
+                                <name content="MMD Importer (*.pmx)" />
+                                <value>
+                                    <extension content="pmx" />
+                                    <description content="MMD Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Milkshape 3D Importer (*.ms3d)" />
+                                <name content="Milkshape 3D Importer (*.ms3d)" />
+                                <value>
+                                    <extension content="ms3d" />
+                                    <description content="Milkshape 3D Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Nendo Mesh Importer (*.ndo)" />
+                                <name content="Nendo Mesh Importer (*.ndo)" />
+                                <value>
+                                    <extension content="ndo" />
+                                    <description content="Nendo Mesh Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Neutral File Format Importer (*.enff)" />
+                                <name content="Neutral File Format Importer (*.enff)" />
+                                <value>
+                                    <extension content="enff" />
+                                    <description content="Neutral File Format Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Neutral File Format Importer (*.nff)" />
+                                <name content="Neutral File Format Importer (*.nff)" />
+                                <value>
+                                    <extension content="nff" />
+                                    <description content="Neutral File Format Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="OFF Importer (*.off)" />
+                                <name content="OFF Importer (*.off)" />
+                                <value>
+                                    <extension content="off" />
+                                    <description content="OFF Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Ogre3D Mesh Importer (*.mesh)" />
+                                <name content="Ogre3D Mesh Importer (*.mesh)" />
+                                <value>
+                                    <extension content="mesh" />
+                                    <description content="Ogre3D Mesh Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Ogre3D Mesh Importer (*.mesh.xml)" />
+                                <name content="Ogre3D Mesh Importer (*.mesh.xml)" />
+                                <value>
+                                    <extension content="mesh.xml" />
+                                    <description content="Ogre3D Mesh Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Open Game Engine Exchange (*.ogex)" />
+                                <name content="Open Game Engine Exchange (*.ogex)" />
+                                <value>
+                                    <extension content="ogex" />
+                                    <description content="Open Game Engine Exchange" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Quake II Mesh Importer (*.md2)" />
+                                <name content="Quake II Mesh Importer (*.md2)" />
+                                <value>
+                                    <extension content="md2" />
+                                    <description content="Quake II Mesh Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Quake III BSP Importer (*.pk3)" />
+                                <name content="Quake III BSP Importer (*.pk3)" />
+                                <value>
+                                    <extension content="pk3" />
+                                    <description content="Quake III BSP Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Quake III Mesh Importer (*.md3)" />
+                                <name content="Quake III Mesh Importer (*.md3)" />
+                                <value>
+                                    <extension content="md3" />
+                                    <description content="Quake III Mesh Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Quake Mesh / 3D GameStudio Mesh Importer (*.mdl)" />
+                                <name content="Quake Mesh / 3D GameStudio Mesh Importer (*.mdl)" />
+                                <value>
+                                    <extension content="mdl" />
+                                    <description content="Quake Mesh / 3D GameStudio Mesh Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Quick3D Importer (*.q3o)" />
+                                <name content="Quick3D Importer (*.q3o)" />
+                                <value>
+                                    <extension content="q3o" />
+                                    <description content="Quick3D Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Quick3D Importer (*.q3s)" />
+                                <name content="Quick3D Importer (*.q3s)" />
+                                <value>
+                                    <extension content="q3s" />
+                                    <description content="Quick3D Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Raw Importer (*.raw)" />
+                                <name content="Raw Importer (*.raw)" />
+                                <value>
+                                    <extension content="raw" />
+                                    <description content="Raw Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Return To Castle Wolfenstein Mesh Importer (*.mdc)" />
+                                <name content="Return To Castle Wolfenstein Mesh Importer (*.mdc)" />
+                                <value>
+                                    <extension content="mdc" />
+                                    <description content="Return To Castle Wolfenstein Mesh Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Silo SIB Importer (*.sib)" />
+                                <name content="Silo SIB Importer (*.sib)" />
+                                <value>
+                                    <extension content="sib" />
+                                    <description content="Silo SIB Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Stanford Polygon Library (PLY) Importer (*.ply)" />
+                                <name content="Stanford Polygon Library (PLY) Importer (*.ply)" />
+                                <value>
+                                    <extension content="ply" />
+                                    <description content="Stanford Polygon Library (PLY) Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="StepFile Importer (*.stp)" />
+                                <name content="StepFile Importer (*.stp)" />
+                                <value>
+                                    <extension content="stp" />
+                                    <description content="StepFile Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Stereolithography (STL) Importer (*.stl)" />
+                                <name content="Stereolithography (STL) Importer (*.stl)" />
+                                <value>
+                                    <extension content="stl" />
+                                    <description content="Stereolithography (STL) Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Terragen Heightmap Importer (*.ter)" />
+                                <name content="Terragen Heightmap Importer (*.ter)" />
+                                <value>
+                                    <extension content="ter" />
+                                    <description content="Terragen Heightmap Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="TrueSpace Object Importer (*.cob)" />
+                                <name content="TrueSpace Object Importer (*.cob)" />
+                                <value>
+                                    <extension content="cob" />
+                                    <description content="TrueSpace Object Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="TrueSpace Object Importer (*.scn)" />
+                                <name content="TrueSpace Object Importer (*.scn)" />
+                                <value>
+                                    <extension content="scn" />
+                                    <description content="TrueSpace Object Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Unreal Mesh Importer (*.3d)" />
+                                <name content="Unreal Mesh Importer (*.3d)" />
+                                <value>
+                                    <extension content="3d" />
+                                    <description content="Unreal Mesh Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Unreal Mesh Importer (*.uc)" />
+                                <name content="Unreal Mesh Importer (*.uc)" />
+                                <value>
+                                    <extension content="uc" />
+                                    <description content="Unreal Mesh Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="VRML1 Importer .iv (&apos;dirty&apos; hack). (*.iv)" />
+                                <name content="VRML1 Importer .iv (&apos;dirty&apos; hack). (*.iv)" />
+                                <value>
+                                    <extension content="iv" />
+                                    <description content="VRML1 Importer .iv (&apos;dirty&apos; hack)." />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Valve SMD Importer (*.smd)" />
+                                <name content="Valve SMD Importer (*.smd)" />
+                                <value>
+                                    <extension content="smd" />
+                                    <description content="Valve SMD Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Valve SMD Importer (*.vta)" />
+                                <name content="Valve SMD Importer (*.vta)" />
+                                <value>
+                                    <extension content="vta" />
+                                    <description content="Valve SMD Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="Wavefront Object Importer (*.obj)" />
+                                <name content="Wavefront Object Importer (*.obj)" />
+                                <value>
+                                    <extension content="obj" />
+                                    <description content="Wavefront Object Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="XGL Importer (*.xgl)" />
+                                <name content="XGL Importer (*.xgl)" />
+                                <value>
+                                    <extension content="xgl" />
+                                    <description content="XGL Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="XGL Importer (*.zgl)" />
+                                <name content="XGL Importer (*.zgl)" />
+                                <value>
+                                    <extension content="zgl" />
+                                    <description content="XGL Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="glTF Importer (*.glb)" />
+                                <name content="glTF Importer (*.glb)" />
+                                <value>
+                                    <extension content="glb" />
+                                    <description content="glTF Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="glTF Importer (*.gltf)" />
+                                <name content="glTF Importer (*.gltf)" />
+                                <value>
+                                    <extension content="gltf" />
+                                    <description content="glTF Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="glTF2 Importer (*.glb)" />
+                                <name content="glTF2 Importer (*.glb)" />
+                                <value>
+                                    <extension content="glb" />
+                                    <description content="glTF2 Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="glTF2 Importer (*.gltf)" />
+                                <name content="glTF2 Importer (*.gltf)" />
+                                <value>
+                                    <extension content="gltf" />
+                                    <description content="glTF2 Importer" />
+                                </value>
+                            </option>
+                            <option>
+                                <id content="noreader" />
+                                <name content="No available reader" />
+                                <value>
+                                    <extension content="" />
+                                    <description content="" />
+                                </value>
+                            </option>
+                        </options>
+                        <selectedIdentifier content="Stereolithography (STL) Importer (*.stl)" />
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="700" y="75" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.Background" identifier="Background2" displayName="Background">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.OptionPropertyEnumInt" identifier="backgroundStyle">
+                        <selectedIdentifier content="uniformColor" />
+                    </Property>
+                    <Property type="org.inviwo.FloatVec4Property" identifier="bgColor1">
+                        <semantics semantics="Color" />
+                        <value x="1" y="1" z="1" w="1" />
+                    </Property>
+                    <Property type="org.inviwo.FloatVec4Property" identifier="bgColor2">
+                        <semantics semantics="Color" />
+                        <value x="0.44299999" y="0.48199999" z="0.60000002" w="1" />
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="75" y="475" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.CubeProxyGeometry" identifier="CubeProxyGeometry" displayName="Cube Proxy Geometry">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.IntMinMaxProperty" identifier="clipX">
+                        <displayName content="Clip X Slices" />
+                        <semantics semantics="Default" />
+                        <usageMode content="1" />
+                        <visible content="1" />
+                        <readonly content="0" />
+                        <range x="0" y="299" />
+                        <increment content="1" />
+                        <minSeparation content="1" />
+                        <value x="0" y="299" />
+                    </Property>
+                    <Property type="org.inviwo.IntMinMaxProperty" identifier="clipY">
+                        <displayName content="Clip Y Slices" />
+                        <semantics semantics="Default" />
+                        <usageMode content="1" />
+                        <visible content="1" />
+                        <readonly content="0" />
+                        <range x="0" y="179" />
+                        <increment content="1" />
+                        <minSeparation content="1" />
+                        <value x="0" y="179" />
+                    </Property>
+                    <Property type="org.inviwo.IntMinMaxProperty" identifier="clipZ">
+                        <displayName content="Clip Z Slices" />
+                        <semantics semantics="Default" />
+                        <usageMode content="1" />
+                        <visible content="1" />
+                        <readonly content="0" />
+                        <range x="0" y="119" />
+                        <increment content="1" />
+                        <minSeparation content="1" />
+                        <value x="0" y="119" />
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="100" y="250" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.EntryExitPoints" identifier="EntryExitPoints" displayName="Entry Exit Points">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.CameraProperty" identifier="camera">
+                        <Properties />
+                        <Camera type="PerspectiveCamera">
+                            <lookFrom x="0.53219593" y="-0.92522353" z="-0.2683053" />
+                            <lookTo x="0.15000001" y="0" z="-0.40000001" />
+                            <lookUp x="-0.086349808" y="0.10534202" z="0.99067992" />
+                            <near content="0.0026" />
+                            <far content="26" />
+                            <aspectRatio content="2.1410713" />
+                            <fov content="38" />
+                        </Camera>
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="100" y="325" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.VolumeRaycaster" identifier="VolumeRaycaster" displayName="Volume Raycaster">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.OptionPropertyInt" identifier="channel">
+                        <displayName content="Render Channel" />
+                        <semantics semantics="Default" />
+                        <usageMode content="1" />
+                        <visible content="1" />
+                        <readonly content="0" />
+                        <options>
+                            <option>
+                                <id content="Channel 1" />
+                                <name content="Channel 1" />
+                                <value content="0" />
+                            </option>
+                        </options>
+                        <selectedIdentifier content="Channel 1" />
+                    </Property>
+                    <Property type="org.inviwo.RaycastingProperty" identifier="raycaster">
+                        <Properties>
+                            <Property type="org.inviwo.FloatProperty" identifier="samplingRate">
+                                <value content="8" />
+                            </Property>
+                        </Properties>
+                    </Property>
+                    <Property type="org.inviwo.IsoTFProperty" identifier="isotfComposite">
+                        <MetaDataMap>
+                            <MetaDataItem type="org.inviwo.BoolMetaData" key="PropertyEditorWidgetFloating">
+                                <MetaData content="1" />
+                            </MetaDataItem>
+                            <MetaDataItem type="org.inviwo.IntVec2MetaData" key="PropertyEditorWidgetPosition">
+                                <MetaData x="645" y="79" />
+                            </MetaDataItem>
+                            <MetaDataItem type="org.inviwo.IntVec2MetaData" key="PropertyEditorWidgetSize">
+                                <MetaData x="1028" y="417" />
+                            </MetaDataItem>
+                            <MetaDataItem type="org.inviwo.BoolMetaData" key="PropertyEditorWidgetSticky">
+                                <MetaData content="0" />
+                            </MetaDataItem>
+                            <MetaDataItem type="org.inviwo.BoolMetaData" key="PropertyEditorWidgetVisible">
+                                <MetaData content="0" />
+                            </MetaDataItem>
+                        </MetaDataMap>
+                        <Properties>
+                            <Property type="org.inviwo.IsoValueProperty" identifier="isovalues" />
+                            <Property type="org.inviwo.TransferFunctionProperty" identifier="transferFunction">
+                                <TransferFunction>
+                                    <maskMin content="0" />
+                                    <maskMax content="1" />
+                                    <type content="0" />
+                                    <Points>
+                                        <Point>
+                                            <pos content="1" />
+                                            <rgba x="0.49803922" y="0.23137255" z="0.031372551" w="0.21875" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.90000000000000002" />
+                                            <rgba x="0.7019608" y="0.34509805" z="0.023529412" w="0.21875" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.80000000000000004" />
+                                            <rgba x="0.87843138" y="0.50980395" z="0.078431375" w="0.21875" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.69999999999999996" />
+                                            <rgba x="0.99215686" y="0.72156864" z="0.3882353" w="0.21875" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.59999999999999998" />
+                                            <rgba x="0.99607843" y="0.87843138" z="0.71372551" w="0" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0" />
+                                            <rgba x="0.17647059" y="0" z="0.29411766" w="1" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.099999999999999978" />
+                                            <rgba x="0.32941177" y="0.15294118" z="0.53333336" w="0.25390625" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.19999999999999996" />
+                                            <rgba x="0.50196081" y="0.4509804" z="0.67450982" w="0" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.30000000000000004" />
+                                            <rgba x="0.69803923" y="0.67058825" z="0.82352942" w="0.13085938" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.40000000000000002" />
+                                            <rgba x="0.84705883" y="0.85490197" z="0.92156863" w="0" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.5" />
+                                            <rgba x="0.96862745" y="0.96862745" z="0.96862745" w="0" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.16403402187120289" />
+                                            <rgba x="0.43990189" y="0.34378767" z="0.62373435" w="0.74387783" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.11520589687120289" />
+                                            <rgba x="0.35564941" y="0.19826072" z="0.55480051" w="0" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.21286214687120289" />
+                                            <rgba x="0.52718067" y="0.47922671" z="0.69367701" w="0" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.0425273390036452" />
+                                            <rgba x="0.2415124" y="0.065041818" z="0.3958497" w="0.81957185" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.35965978128797083" />
+                                            <rgba x="0.78694403" y="0.78054941" z="0.8820194" w="0.25718534" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.31083165628797083" />
+                                            <rgba x="0.71418053" y="0.69055247" z="0.83414871" w="0" />
+                                        </Point>
+                                        <Point>
+                                            <pos content="0.40848790628797083" />
+                                            <rgba x="0.85737747" y="0.86455494" z="0.92556298" w="0.0234375" />
+                                        </Point>
+                                    </Points>
+                                </TransferFunction>
+                            </Property>
+                        </Properties>
+                    </Property>
+                    <Property type="org.inviwo.CameraProperty" identifier="camera">
+                        <MetaDataMap>
+                            <MetaDataItem type="org.inviwo.StringStringStdUnorderedMapMetaData" key="SavedState">
+                                <Map>
+                                    <Item content='&lt;?xml version=&quot;1.0&quot; ?&gt;&lt;InviwoWorkspace version=&quot;2&quot; type=&quot;org.inviwo.CameraProperty&quot; identifier=&quot;camera&quot;&gt;&lt;displayName content=&quot;Camera&quot; /&gt;&lt;semantics semantics=&quot;Default&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;MetaDataMap&gt;&lt;MetaDataItem type=&quot;org.inviwo.StringStringStdUnorderedMapMetaData&quot; key=&quot;SavedState&quot; /&gt;&lt;/MetaDataMap&gt;&lt;Properties&gt;&lt;Property type=&quot;org.inviwo.OptionPropertyString&quot; identifier=&quot;cameraType&quot;&gt;&lt;displayName content=&quot;Camera Type&quot; /&gt;&lt;semantics semantics=&quot;Default&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;options&gt;&lt;option&gt;&lt;id content=&quot;PerspectiveCamera&quot; /&gt;&lt;name content=&quot; Perspective Camera&quot; /&gt;&lt;value content=&quot;PerspectiveCamera&quot; /&gt;&lt;/option&gt;&lt;option&gt;&lt;id content=&quot;OrthographicCamera&quot; /&gt;&lt;name content=&quot; Orthographic Camera&quot; /&gt;&lt;value content=&quot;OrthographicCamera&quot; /&gt;&lt;/option&gt;&lt;option&gt;&lt;id content=&quot;SkewedPerspectiveCamera&quot; /&gt;&lt;name content=&quot; Skewed Perspective Camera&quot; /&gt;&lt;value content=&quot;SkewedPerspectiveCamera&quot; /&gt;&lt;/option&gt;&lt;/options&gt;&lt;selectedIdentifier content=&quot;PerspectiveCamera&quot; /&gt;&lt;/Property&gt;&lt;Property type=&quot;org.inviwo.ButtonGroupProperty&quot; identifier=&quot;actions&quot;&gt;&lt;displayName content=&quot;Actions&quot; /&gt;&lt;semantics semantics=&quot;Default&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;/Property&gt;&lt;Property type=&quot;org.inviwo.FloatVec3RefProperty&quot; identifier=&quot;lookFrom&quot;&gt;&lt;displayName content=&quot;Look from&quot; /&gt;&lt;semantics semantics=&quot;SphericalSpinBox&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;minConstraint content=&quot;3&quot; /&gt;&lt;maxConstraint content=&quot;3&quot; /&gt;&lt;minvalue x=&quot;-24.85&quot; y=&quot;-15.000001&quot; z=&quot;-5.3999996&quot; /&gt;&lt;maxvalue x=&quot;25.15&quot; y=&quot;15.000001&quot; z=&quot;4.5999994&quot; /&gt;&lt;increment x=&quot;0.1&quot; y=&quot;0.1&quot; z=&quot;0.1&quot; /&gt;&lt;/Property&gt;&lt;Property type=&quot;org.inviwo.FloatVec3RefProperty&quot; identifier=&quot;lookTo&quot;&gt;&lt;displayName content=&quot;Look to&quot; /&gt;&lt;semantics semantics=&quot;SpinBox&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;minConstraint content=&quot;3&quot; /&gt;&lt;maxConstraint content=&quot;3&quot; /&gt;&lt;minvalue x=&quot;-0.85000002&quot; y=&quot;-0.60000002&quot; z=&quot;-0.60000002&quot; /&gt;&lt;maxvalue x=&quot;1.15&quot; y=&quot;0.60000002&quot; z=&quot;-0.20000002&quot; /&gt;&lt;increment x=&quot;0.1&quot; y=&quot;0.1&quot; z=&quot;0.1&quot; /&gt;&lt;/Property&gt;&lt;Property type=&quot;org.inviwo.FloatVec3RefProperty&quot; identifier=&quot;lookUp&quot;&gt;&lt;displayName content=&quot;Look up&quot; /&gt;&lt;semantics semantics=&quot;SpinBox&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;minConstraint content=&quot;2&quot; /&gt;&lt;maxConstraint content=&quot;2&quot; /&gt;&lt;minvalue x=&quot;-1&quot; y=&quot;-1&quot; z=&quot;-1&quot; /&gt;&lt;maxvalue x=&quot;1&quot; y=&quot;1&quot; z=&quot;1&quot; /&gt;&lt;increment x=&quot;0.1&quot; y=&quot;0.1&quot; z=&quot;0.1&quot; /&gt;&lt;/Property&gt;&lt;Property type=&quot;org.inviwo.FloatRefProperty&quot; identifier=&quot;aspectRatio&quot;&gt;&lt;displayName content=&quot;Aspect Ratio&quot; /&gt;&lt;semantics semantics=&quot;Text&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;1&quot; /&gt;&lt;minConstraint content=&quot;2&quot; /&gt;&lt;maxConstraint content=&quot;2&quot; /&gt;&lt;minvalue content=&quot;0&quot; /&gt;&lt;maxvalue content=&quot;3.4028235e+38&quot; /&gt;&lt;increment content=&quot;0.0099999998&quot; /&gt;&lt;/Property&gt;&lt;Property type=&quot;org.inviwo.FloatRefProperty&quot; identifier=&quot;near&quot;&gt;&lt;displayName content=&quot;Near Plane&quot; /&gt;&lt;semantics semantics=&quot;Default&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;minConstraint content=&quot;3&quot; /&gt;&lt;maxConstraint content=&quot;3&quot; /&gt;&lt;minvalue content=&quot;0.00026&quot; /&gt;&lt;maxvalue content=&quot;10&quot; /&gt;&lt;increment content=&quot;0.001&quot; /&gt;&lt;/Property&gt;&lt;Property type=&quot;org.inviwo.FloatRefProperty&quot; identifier=&quot;far&quot;&gt;&lt;displayName content=&quot;Far Plane&quot; /&gt;&lt;semantics semantics=&quot;Default&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;minConstraint content=&quot;3&quot; /&gt;&lt;maxConstraint content=&quot;3&quot; /&gt;&lt;minvalue content=&quot;1&quot; /&gt;&lt;maxvalue content=&quot;1000&quot; /&gt;&lt;increment content=&quot;1&quot; /&gt;&lt;/Property&gt;&lt;Property type=&quot;org.inviwo.FloatRefProperty&quot; identifier=&quot;fov&quot;&gt;&lt;displayName content=&quot;FOV&quot; /&gt;&lt;semantics semantics=&quot;Default&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;minConstraint content=&quot;2&quot; /&gt;&lt;maxConstraint content=&quot;2&quot; /&gt;&lt;minvalue content=&quot;0&quot; /&gt;&lt;maxvalue content=&quot;180&quot; /&gt;&lt;increment content=&quot;0.1&quot; /&gt;&lt;/Property&gt;&lt;Property type=&quot;org.inviwo.CompositeProperty&quot; identifier=&quot;settings&quot;&gt;&lt;displayName content=&quot;Settings&quot; /&gt;&lt;semantics semantics=&quot;Default&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;Properties&gt;&lt;Property type=&quot;org.inviwo.ButtonProperty&quot; identifier=&quot;setNearFarButton&quot;&gt;&lt;displayName content=&quot;Set Near/Far Distances&quot; /&gt;&lt;semantics semantics=&quot;Default&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;/Property&gt;&lt;Property type=&quot;org.inviwo.ButtonProperty&quot; identifier=&quot;setLookRangesButton&quot;&gt;&lt;displayName content=&quot;Set Look-to/-from Ranges&quot; /&gt;&lt;semantics semantics=&quot;Default&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;/Property&gt;&lt;Property type=&quot;org.inviwo.BoolProperty&quot; identifier=&quot;updateNearFar&quot;&gt;&lt;displayName content=&quot;Update Near/Far Distances&quot; /&gt;&lt;semantics semantics=&quot;Default&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;value content=&quot;1&quot; /&gt;&lt;/Property&gt;&lt;Property type=&quot;org.inviwo.BoolProperty&quot; identifier=&quot;updateLookRanges&quot;&gt;&lt;displayName content=&quot;Update Look-to/-from Ranges&quot; /&gt;&lt;semantics semantics=&quot;Default&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;value content=&quot;1&quot; /&gt;&lt;/Property&gt;&lt;Property type=&quot;org.inviwo.FloatProperty&quot; identifier=&quot;fittingRatio&quot;&gt;&lt;displayName content=&quot;Fitting Ratio&quot; /&gt;&lt;semantics semantics=&quot;Default&quot; /&gt;&lt;usageMode content=&quot;1&quot; /&gt;&lt;visible content=&quot;1&quot; /&gt;&lt;readonly content=&quot;0&quot; /&gt;&lt;minConstraint content=&quot;0&quot; /&gt;&lt;maxConstraint content=&quot;0&quot; /&gt;&lt;minvalue content=&quot;0&quot; /&gt;&lt;maxvalue content=&quot;2&quot; /&gt;&lt;increment content=&quot;0.0099999998&quot; /&gt;&lt;value content=&quot;1.05&quot; /&gt;&lt;/Property&gt;&lt;/Properties&gt;&lt;collapsed content=&quot;1&quot; /&gt;&lt;/Property&gt;&lt;/Properties&gt;&lt;collapsed content=&quot;0&quot; /&gt;&lt;Camera type=&quot;PerspectiveCamera&quot;&gt;&lt;lookFrom x=&quot;0.53219593&quot; y=&quot;-0.92522353&quot; z=&quot;-0.2683053&quot; /&gt;&lt;lookTo x=&quot;0.15000001&quot; y=&quot;0&quot; z=&quot;-0.40000001&quot; /&gt;&lt;lookUp x=&quot;-0.086349808&quot; y=&quot;0.10534202&quot; z=&quot;0.99067992&quot; /&gt;&lt;near content=&quot;0.0026&quot; /&gt;&lt;far content=&quot;26&quot; /&gt;&lt;aspectRatio content=&quot;2.1410713&quot; /&gt;&lt;fov content=&quot;38&quot; /&gt;&lt;/Camera&gt;&lt;/InviwoWorkspace&gt;' key="CameraSettingForTangaroa" />
+                                </Map>
+                            </MetaDataItem>
+                        </MetaDataMap>
+                        <Properties>
+                            <Property type="org.inviwo.FloatVec3RefProperty" identifier="lookFrom">
+                                <minvalue x="-24.85" y="-15.000001" z="-5.3999996" />
+                                <maxvalue x="25.15" y="15.000001" z="4.5999994" />
+                            </Property>
+                            <Property type="org.inviwo.FloatVec3RefProperty" identifier="lookTo">
+                                <minvalue x="-0.85000002" y="-0.60000002" z="-0.60000002" />
+                                <maxvalue x="1.15" y="0.60000002" z="-0.20000002" />
+                            </Property>
+                            <Property type="org.inviwo.FloatRefProperty" identifier="near">
+                                <minvalue content="0.00026" />
+                            </Property>
+                        </Properties>
+                        <Camera type="PerspectiveCamera">
+                            <lookFrom x="0.53219593" y="-0.92522353" z="-0.2683053" />
+                            <lookTo x="0.15000001" y="0" z="-0.40000001" />
+                            <lookUp x="-0.086349808" y="0.10534202" z="0.99067992" />
+                            <near content="0.0026" />
+                            <far content="26" />
+                            <aspectRatio content="2.1410713" />
+                            <fov content="38" />
+                        </Camera>
+                    </Property>
+                    <Property type="org.inviwo.SimpleLightingProperty" identifier="lighting">
+                        <Properties>
+                            <Property type="org.inviwo.OptionPropertyInt" identifier="shadingMode">
+                                <selectedIdentifier content="blinnphong" />
+                            </Property>
+                            <Property type="org.inviwo.FloatVec3Property" identifier="lightColorAmbient">
+                                <value x="0.9254902" y="0.9254902" z="0.9254902" />
+                            </Property>
+                        </Properties>
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="75" y="400" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.CanvasGL" identifier="Canvas2" displayName="Canvas">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.CompositeProperty" identifier="inputSize">
+                        <Properties>
+                            <Property type="org.inviwo.BoolProperty" identifier="enableCustomInputDimensions">
+                                <value content="1" />
+                            </Property>
+                            <Property type="org.inviwo.IntSize2Property" identifier="customInputDimensions">
+                                <visible content="1" />
+                                <readonly content="1" />
+                                <value x="4796" y="2240" />
+                            </Property>
+                            <Property type="org.inviwo.FloatProperty" identifier="aspectRatioScaling">
+                                <visible content="1" />
+                                <value content="4" />
+                            </Property>
+                        </Properties>
+                    </Property>
+                    <Property type="org.inviwo.IntVec2Property" identifier="position">
+                        <value x="574" y="432" />
+                    </Property>
+                    <Property type="org.inviwo.IntProperty" identifier="colorLayer_">
+                        <displayName content="Color Layer ID" />
+                        <semantics semantics="Default" />
+                        <usageMode content="1" />
+                        <visible content="0" />
+                        <readonly content="0" />
+                        <minConstraint content="0" />
+                        <maxConstraint content="0" />
+                        <minvalue content="0" />
+                        <maxvalue content="0" />
+                        <increment content="1" />
+                        <value content="0" />
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="75" y="550" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                    <MetaDataItem type="org.inviwo.ProcessorWidgetMetaData" key="org.inviwo.ProcessorWidgetMetaData">
+                        <position x="574" y="432" />
+                        <dimensions x="1199" y="560" />
+                        <visibility content="1" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.VolumeBoundingBox" identifier="VolumeBoundingBox" displayName="Volume Bounding Box">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.FloatVec4Property" identifier="color">
+                        <semantics semantics="Color" />
+                        <value x="0.83137256" y="0.83137256" z="0.83137256" w="1" />
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="275" y="250" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.LineRenderer" identifier="LineRenderer" displayName="Line Renderer">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.LineSettingsProperty" identifier="lineSettings">
+                        <Properties>
+                            <Property type="org.inviwo.FloatProperty" identifier="lineWidth">
+                                <value content="10" />
+                            </Property>
+                            <Property type="org.inviwo.FloatProperty" identifier="antialiasing">
+                                <value content="4" />
+                            </Property>
+                        </Properties>
+                    </Property>
+                    <Property type="org.inviwo.CameraProperty" identifier="camera">
+                        <Properties />
+                        <Camera type="PerspectiveCamera">
+                            <lookFrom x="0.53219593" y="-0.92522353" z="-0.2683053" />
+                            <lookTo x="0.15000001" y="0" z="-0.40000001" />
+                            <lookUp x="-0.086349808" y="0.10534202" z="0.99067992" />
+                            <near content="0.0026" />
+                            <far content="26" />
+                            <aspectRatio content="2.1410713" />
+                            <fov content="38" />
+                        </Camera>
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="275" y="325" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.CameraWidget" identifier="CameraWidget" displayName="Camera Widget">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.CompositeProperty" identifier="outputProperties">
+                        <Properties>
+                            <Property type="org.inviwo.CameraProperty" identifier="camera">
+                                <Properties />
+                                <collapsed content="1" />
+                                <Camera type="PerspectiveCamera">
+                                    <lookFrom x="0.53219593" y="-0.92522353" z="-0.2683053" />
+                                    <lookTo x="0.15000001" y="0" z="-0.40000001" />
+                                    <lookUp x="-0.086349808" y="0.10534202" z="0.99067992" />
+                                    <near content="0.0026" />
+                                    <far content="26" />
+                                    <aspectRatio content="2.1410713" />
+                                    <fov content="38" />
+                                </Camera>
+                            </Property>
+                            <Property type="org.inviwo.FloatMat4Property" identifier="rotMatrix">
+                                <value>
+                                    <col0 x="0.90260673" y="-0.26077747" z="0.34248561" w="0" />
+                                    <col1 x="-0.40106803" y="-0.79843402" z="0.44905052" w="0" />
+                                    <col2 x="0.15634972" y="-0.54267597" z="-0.82526124" w="0" />
+                                    <col3 x="0" y="0" z="0" w="1" />
+                                </value>
+                            </Property>
+                        </Properties>
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="850" y="425" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.VolumeInformation" identifier="VolumeInformation" displayName="Volume Information">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.BoolCompositeProperty" identifier="minmaxValues">
+                        <Properties>
+                            <Property type="org.inviwo.Size_tProperty" identifier="significantVoxels">
+                                <value content="6480000" />
+                            </Property>
+                            <Property type="org.inviwo.DoubleProperty" identifier="significantVoxelsRatio">
+                                <value content="1" />
+                            </Property>
+                            <Property type="org.inviwo.DoubleMinMaxProperty" identifier="minMaxChannel1_">
+                                <value x="0.00080984056694433093" y="1.5972864627838135" />
+                            </Property>
+                            <Property type="org.inviwo.DoubleMinMaxProperty" identifier="minMaxChannel2_">
+                                <visible content="0" />
+                                <value x="0" y="0" />
+                            </Property>
+                            <Property type="org.inviwo.DoubleMinMaxProperty" identifier="minMaxChannel3_">
+                                <visible content="0" />
+                                <value x="0" y="0" />
+                            </Property>
+                            <Property type="org.inviwo.DoubleMinMaxProperty" identifier="minMaxChannel4_">
+                                <visible content="0" />
+                                <value x="0" y="0" />
+                            </Property>
+                        </Properties>
+                    </Property>
+                    <Property type="org.inviwo.CompositeProperty" identifier="transformations">
+                        <Properties>
+                            <Property type="org.inviwo.FloatMat3Property" identifier="basis">
+                                <value>
+                                    <col0 x="1" y="0" z="0" />
+                                    <col1 x="0" y="0.60000002" z="0" />
+                                    <col2 x="0" y="0" z="0.19999999" />
+                                </value>
+                            </Property>
+                            <Property type="org.inviwo.FloatVec3Property" identifier="offset">
+                                <value x="-0.34999999" y="-0.30000001" z="-0.5" />
+                            </Property>
+                            <Property type="org.inviwo.DoubleVec3Property" identifier="voxelSize">
+                                <value x="0.0033333334140479565" y="0.0033333336468786001" z="0.0016666667070239782" />
+                            </Property>
+                        </Properties>
+                        <collapsed content="0" />
+                    </Property>
+                    <Property type="org.inviwo.CompositeProperty" identifier="metaData">
+                        <OwnedPropertyIdentifiers>
+                            <PropertyIdentifier content="filename" />
+                        </OwnedPropertyIdentifiers>
+                        <Properties>
+                            <Property type="org.inviwo.StringProperty" identifier="filename">
+                                <displayName content="filename" />
+                                <semantics semantics="Default" />
+                                <usageMode content="1" />
+                                <visible content="1" />
+                                <readonly content="1" />
+                                <value content="E:/Data/Tangaroa/Magnitude/tangaroa-1.00_magnitude.dat" />
+                            </Property>
+                        </Properties>
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="975" y="200" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.MeshInformation" identifier="MeshInformation" displayName="Mesh Information">
+                <PortGroups />
+                <Properties />
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="1000" y="125" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+            <Processor type="org.inviwo.TransformMesh" identifier="TransformMesh" displayName="Transform Mesh">
+                <PortGroups />
+                <Properties>
+                    <Property type="org.inviwo.OptionPropertyEnumInt" identifier="space">
+                        <selectedIdentifier content="model" />
+                    </Property>
+                    <Property type="org.inviwo.TransformListProperty" identifier="transformations">
+                        <Properties>
+                            <Property type="org.inviwo.ListProperty" identifier="internalTransforms">
+                                <maxNumberOfElements content="0" />
+                                <OwnedPropertyIdentifiers>
+                                    <PropertyIdentifier content="scaling" />
+                                    <PropertyIdentifier content="translation" />
+                                </OwnedPropertyIdentifiers>
+                                <Properties>
+                                    <Property type="org.inviwo.trafo.ScaleProperty" identifier="scaling">
+                                        <displayName content="Scaling" />
+                                        <semantics semantics="Default" />
+                                        <usageMode content="1" />
+                                        <visible content="1" />
+                                        <readonly content="0" />
+                                        <Properties>
+                                            <Property type="org.inviwo.FloatVec3Property" identifier="scale">
+                                                <semantics semantics="SpinBox" />
+                                                <value x="0.25" y="0.25" z="0.25" />
+                                            </Property>
+                                        </Properties>
+                                        <collapsed content="0" />
+                                    </Property>
+                                    <Property type="org.inviwo.trafo.TranslateProperty" identifier="translation">
+                                        <displayName content="Translation" />
+                                        <semantics semantics="Default" />
+                                        <usageMode content="1" />
+                                        <visible content="1" />
+                                        <readonly content="0" />
+                                        <Properties>
+                                            <Property type="org.inviwo.FloatVec3Property" identifier="translate_">
+                                                <semantics semantics="SpinBox" />
+                                                <value x="-0.16269" y="0.012777" z="-0.49746999" />
+                                            </Property>
+                                        </Properties>
+                                        <collapsed content="0" />
+                                    </Property>
+                                </Properties>
+                            </Property>
+                            <Property type="org.inviwo.FloatMat4Property" identifier="result">
+                                <value>
+                                    <col0 x="0.25" y="0" z="0" w="0" />
+                                    <col1 x="0" y="0.25" z="0" w="0" />
+                                    <col2 x="0" y="0" z="0.25" w="0" />
+                                    <col3 x="-0.16269" y="0.012777" z="-0.49746999" w="1" />
+                                </value>
+                            </Property>
+                        </Properties>
+                    </Property>
+                </Properties>
+                <MetaDataMap>
+                    <MetaDataItem type="org.inviwo.ProcessorMetaData" key="org.inviwo.ProcessorMetaData">
+                        <position x="725" y="175" />
+                        <visibility content="1" />
+                        <selection content="0" />
+                    </MetaDataItem>
+                </MetaDataMap>
+            </Processor>
+        </Processors>
+        <Connections>
+            <Connection src="VolumeSequenceSource.data" dst="VolumeSequenceClampValueRange.inport" />
+            <Connection src="MeshRenderer.image" dst="Canvas.inport" />
+            <Connection src="VolumeSequenceClampValueRange.outport" dst="VolumeSequenceElementSelector.inport" />
+            <Connection src="VolumeSequenceElementSelector.outport" dst="CubeProxyGeometry.volume" />
+            <Connection src="CubeProxyGeometry.proxyGeometry" dst="EntryExitPoints.geometry" />
+            <Connection src="EntryExitPoints.entry" dst="VolumeRaycaster.entry" />
+            <Connection src="EntryExitPoints.exit" dst="VolumeRaycaster.exit" />
+            <Connection src="VolumeSequenceElementSelector.outport" dst="VolumeRaycaster.volume" />
+            <Connection src="VolumeRaycaster.outport" dst="Background2.inport" />
+            <Connection src="VolumeSequenceElementSelector.outport" dst="VolumeBoundingBox.volume" />
+            <Connection src="VolumeBoundingBox.mesh" dst="LineRenderer.geometry" />
+            <Connection src="LineRenderer.image" dst="VolumeRaycaster.bg" />
+            <Connection src="VolumeSequenceElementSelector.outport" dst="VolumeInformation.volume" />
+            <Connection src="CameraWidget.outport" dst="MeshRenderer.imageInport" />
+            <Connection src="Background2.outport" dst="Canvas2.inport" />
+            <Connection src="MeshRenderer.image" dst="LineRenderer.imageInport" />
+            <Connection src="MeshSource.data" dst="TransformMesh.inport_" />
+            <Connection src="TransformMesh.outport_" dst="MeshRenderer.geometry" />
+            <Connection src="TransformMesh.outport_" dst="MeshInformation.mesh" />
+        </Connections>
+        <PropertyLinks>
+            <PropertyLink src="EntryExitPoints.camera" dst="VolumeRaycaster.camera" />
+            <PropertyLink src="VolumeRaycaster.lighting" dst="MeshRenderer.lighting" />
+            <PropertyLink src="VolumeRaycaster.camera" dst="MeshRenderer.camera" />
+            <PropertyLink src="VolumeRaycaster.camera" dst="EntryExitPoints.camera" />
+            <PropertyLink src="LineRenderer.camera" dst="EntryExitPoints.camera" />
+            <PropertyLink src="EntryExitPoints.camera" dst="LineRenderer.camera" />
+            <PropertyLink src="CameraWidget.outputProperties.camera" dst="VolumeRaycaster.camera" />
+            <PropertyLink src="MeshRenderer.camera" dst="VolumeRaycaster.camera" />
+            <PropertyLink src="MeshRenderer.lighting" dst="VolumeRaycaster.lighting" />
+            <PropertyLink src="VolumeRaycaster.camera" dst="CameraWidget.outputProperties.camera" />
+        </PropertyLinks>
+    </ProcessorNetwork>
+    <PortInspectors />
+    <WorkspaceAnnotations>
+        <Properties />
+        <Canvases>
+            <CanvasImage>
+                <name content="Canvas" />
+                <size x="548" y="256" />
+                <base64 content="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ia1lk04XNsHa6snF1EiFh5hUHKfKCTuUsuMHr0NadrcR3ltFPES0UqB0JBBIIyODyOvepKwvD3l6TfXmiDy40h/0m1jTYoEDk/KFHICuGHTGCvPoAb1UtDw2lW8oGPOBnI9C5Ln/ANCqbULn7HYXNxjPlRNJj1wCaWythZ2cFupysUaxg/QYoAnooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigCOe3iuozHNEkqHqsihgfwNVDolmoxFEbYelrI0IP12EZq/RQBQXTp4f9VqNxgdEmCOv48Bj/31RjU4h1tLonthocf+h5/Sr9FAFBr+5hAEunSsR1a3dHUfmVJ/Kga3aAZld7Yf3rmJol/NgBV+igCG3u4LxN8E0c6dN0bBh+lTVWudMs7xw1xaQTsOA0kYYj8xULaNEDmKa5t27FJ2IH0ViV/SgC9RVH7JfRDEV+JPU3MAb8thT+tL5moxkA29tMo6uszIT9FKkf8Aj1AF2j8Kof2s0Z/f2N3CD/EIxL+iFj+lOGt2AIV7qOFz0Sc+W/8A3y2DQBdrE8SZsfsurp5jfYWPmpHuO6FsCT5V+8RhW6H7nHWtsEMMggjsRTJoY7mF4po1likUq6OoKsDwQR3FAFTWsNpcsZzibbBx/tsEz/49V+uT0xzDbW2hO6mWxu44RgruMKgyRMQoAGVQLwMZVvSusoAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigApCARgjIpaKAKJ0SwyWS0ihc9ZIV8t/++lwab/ZJjP7i+vIAeq+YJP/AEYGP5VoUUAZKaLI2rx301yJDGu0KqFc4DAE/MRkb36AdfYVrUUUAFFFFABRRRQAUUUUAf/Z" />
+            </CanvasImage>
+        </Canvases>
+        <Network>
+            <name content="Network" />
+            <size x="256" y="256" />
+            <base64 content="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" />
+        </Network>
+    </WorkspaceAnnotations>
+    <Animation />
+    <AnimationController>
+        <Properties />
+        <renderImageExtension content="Portable Network Graphics (*.png)" />
+    </AnimationController>
+</InviwoWorkspace>

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<meta charset='utf-8'>
+<html xml:lang='en' lang='en'>
+<head>
+    <title>Nested Tracking Graphs</title>
+</head>
+<script src='d3.min.js'></script>
+<script src='viz.js'></script>
+<script src='NestedGraphLib.js'></script>
+<script src='exampleGraphs.js'></script>
+<script src='graphs.js'></script>
+<body>
+<p>
+    Example:
+    <select id='exampleGraphs' onchange='selectGraph()'>
+        <option>Simple</option>
+        <option>SimpleBubbles</option>
+        <option>Crossing</option>
+        <option>ViscousFingers</option>
+        <option>VisciousFingers_40to47_Ordered</option>
+        <option>OkuboWeiss_Ordered</option>
+        <option>current</option>
+    </select>
+    <input type='checkbox' id='ForceClassicLayout' name='ForceClassicLayout' value='ForceLayout' onchange='selectGraph()'> Force Classic Layout
+    <span id='loadingText'></span>
+</p>
+<div id="container" style='width:1490px; height:800px;'></div>
+<script>
+    var selectField = document.getElementById('exampleGraphs');
+    var layoutBox = document.getElementById('ForceClassicLayout');
+    var loadingText = document.getElementById('loadingText');
+    function selectGraph() {
+        loadingText.innerHTML = 'Loading';
+
+        setTimeout(
+            function(){
+                var selection = selectField.options[selectField.selectedIndex].text;
+                var bForceNewLayout = layoutBox.checked;
+                var settings = exampleGraphsSettings[selection];
+                for(var setting in settings){
+                    NestedGraphLib[setting] = settings[setting];
+                }
+                var graph;
+                if (selection == 'current') {
+                    graph = graphs[selection]
+                }
+                else {
+                    graph = exampleGraphs[selection]
+                }
+                NestedGraphLib.drawNestedGraph(graph, 'container', bForceNewLayout);
+                loadingText.innerHTML = '';
+            },
+            0
+        );
+    }
+    selectGraph();
+</script>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,12 @@
+output ["limits_0 = array2d(1..19, 1..4, ",show(limits_0),");\n","decisions_0 = array1d(1..19, ",show(decisions_0),");\n","limits_1 = array2d(1..19, 1..4, ",show(limits_1),");\n","decisions_1 = array1d(1..19, ",show(decisions_1),");\n","limits_2 = array2d(1..17, 1..4, ",show(limits_2),");\n","decisions_2 = array1d(1..17, ",show(decisions_2),");\n","objPerTimeStep = array1d(1..1, ",show(objPerTimeStep),");\n"];
+int: numTimeSteps = 2;
+int: numSubTrees_0 = 19;
+array [1..numSubTrees_0,1..4] of int: limits_0;
+array [1..numSubTrees_0] of bool: decisions_0;
+int: numSubTrees_1 = 19;
+array [1..numSubTrees_1,1..4] of int: limits_1;
+array [1..numSubTrees_1] of bool: decisions_1;
+int: numSubTrees_2 = 17;
+array [1..numSubTrees_2,1..4] of int: limits_2;
+array [1..numSubTrees_2] of bool: decisions_2;
+array [1..numTimeSteps-1] of float: objPerTimeStep;

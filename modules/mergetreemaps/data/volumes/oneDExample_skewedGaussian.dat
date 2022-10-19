@@ -1,0 +1,18 @@
+RawFile: oneDExample_skewedGaussian.raw
+Resolution: 128 128 1
+Format: FLOAT32
+ByteOffset: 0
+BasisVector1: 1 0 0
+BasisVector2: 0 1 0
+BasisVector3: 0 0 1
+Offset: 0 0 0
+WorldVector1: 1 0 0 0
+WorldVector2: 0 1 0 0
+WorldVector3: 0 0 1 0
+WorldVector4: 0 0 0 1
+DataRange: -0.30000001192092896 0.9116133451461792
+ValueRange: -0.30000001192092896 0.9116133451461792
+Unit: arb. unit.
+SwizzleMask: rgba
+Interpolation: Linear
+Wrapping: Clamp Clamp Clamp
